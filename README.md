@@ -1,4 +1,4 @@
-# 🏠 FutureNest -- Chennai Real Estate Price Prediction System
+# FutureNest -- Chennai Real Estate Price Prediction System
 
 A complete Machine Learning system to predict current and future house prices in Chennai using CatBoost and Streamlit.
 
