@@ -22,6 +22,4 @@ MAE         : 8.29 Lakhs
 RMSE        : 13.05 Lakhs
 
 ## Application Output
-
-### 🔹 Home Page
-![Home_Page](assets/screenshots/Home_Page.jpeg)
+![Home_Page](assets/Home_Page.jpeg)
