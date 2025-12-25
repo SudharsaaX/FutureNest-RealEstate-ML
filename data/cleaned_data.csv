@@ -1,0 +1,2621 @@
+price,area,status,bhk,bathroom,age,location,builder,year
+37.49,872,1,2,2.0,1.0,Sembakkam,MP Developers,2020.0
+93.54,1346,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+151.0,2225,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+49.0,1028,1,2,2.0,3.0,Ambattur,Other,2018.0
+42.28,588,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers India Ltd,2021.0
+162.0,2221,0,3,3.0,0.0,Other,Other,2021.0
+38.0,885,0,3,2.0,0.0,Thirumazhisai,Other,2021.0
+72.99,936,1,3,2.0,6.0,Other,Other,2015.0
+125.0,2275,1,4,2.0,1.0,Other,Other,2020.0
+24.56,622,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+67.87,1305,0,3,2.0,0.0,Gerugambakkam,Other,2021.0
+162.0,1500,1,3,3.0,1.0,Anna Nagar,Other,2020.0
+162.0,2200,0,3,2.0,0.0,Other,Other,2021.0
+51.46,919,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+69.47,965,0,2,2.0,0.0,Porur,Urban Tree Infrastructures,2021.0
+113.0,2343,1,4,4.0,5.0,Navallur,Olympia Group,2016.0
+18.0,353,0,1,2.0,0.0,Thirumazhisai,Other,2021.0
+162.0,1450,0,3,2.0,0.0,Anna Nagar,Other,2021.0
+100.0,1833,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+45.99,920,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+73.75,1405,0,3,2.0,0.0,Sholinganallur,Other,2021.0
+162.0,2601,0,4,2.0,0.0,T Nagar,Other,2021.0
+162.0,2475,0,4,2.0,0.0,Guindy,Other,2021.0
+80.73,1242,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+31.96,969,1,2,2.0,1.0,Perumbakkam,Other,2020.0
+81.3,937,0,2,2.0,0.0,Velachery,Other,2021.0
+72.05,1310,0,3,2.0,0.0,Medavakkam,EK Realtors,2021.0
+91.36,1340,1,3,2.0,2.0,Gowrivakkam,The Nest Builder,2019.0
+50.76,1045,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+62.75,1004,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+57.5,920,0,2,1.0,0.0,Ambattur,Other,2021.0
+50.22,1005,1,2,2.0,1.0,Other,Other,2020.0
+22.36,713,0,2,2.0,0.0,Thandalam,Other,2021.0
+19.8,900,1,2,2.0,1.0,Thirumazhisai,Other,2020.0
+84.13,1325,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+58.43,1113,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+162.0,3670,1,3,2.0,3.0,Other,Other,2018.0
+80.32,1208,1,2,2.0,4.0,Madipakkam,Other,2017.0
+162.0,1600,0,3,2.0,0.0,Adyar,India Builders Limited,2021.0
+40.02,870,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+42.07,1275,0,3,2.0,0.0,Thaiyur,Other,2021.0
+48.61,884,1,2,2.0,1.0,Other,Other,2020.0
+49.12,1092,0,2,2.0,0.0,Poonamallee,Other,2021.0
+42.28,588,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+50.21,1152,1,2,3.0,1.0,Padur,Pacifica Companies,2020.0
+40.75,910,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+162.0,1548,1,3,2.0,1.0,Adyar,Other,2020.0
+47.04,920,0,2,2.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+45.79,669,1,2,2.0,1.0,East Tambaram,VGK Builders Pvt Ltd,2020.0
+33.77,866,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+65.69,1381,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+118.0,1740,1,3,2.0,4.0,Iyappanthangal,Other,2017.0
+50.31,1450,1,3,2.0,1.0,Other,Other,2020.0
+78.71,1212,0,2,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+29.62,528,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+88.27,1605,0,3,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+43.44,932,0,2,2.0,0.0,Pammal,Merlin Group,2021.0
+33.05,1002,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+29.56,768,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+88.39,1637,1,3,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+162.0,6103,1,4,2.0,5.0,Sholinganallur,Prestige Estates Projects Ltd,2016.0
+33.23,773,1,2,2.0,1.0,Sembakkam,MP Developers,2020.0
+84.79,1220,0,3,3.0,0.0,Selaiyur,DAC Promoters,2021.0
+134.0,1974,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+67.0,1195,1,3,2.0,3.0,Ambattur,Other,2018.0
+71.08,1021,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers India Ltd,2021.0
+162.0,2221,0,3,3.0,0.0,Other,Other,2021.0
+31.0,730,0,2,2.0,0.0,Thirumazhisai,Other,2021.0
+83.03,1101,1,3,2.0,6.0,Other,Other,2015.0
+146.0,2669,1,4,2.0,1.0,Other,Other,2020.0
+20.14,510,0,1,2.0,0.0,Perungalathur,Isha Homes,2021.0
+76.2,1480,0,3,2.0,0.0,Gerugambakkam,Other,2021.0
+162.0,1500,0,3,2.0,0.0,Anna Nagar,Other,2021.0
+51.46,919,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+66.44,923,0,2,2.0,0.0,Porur,Urban Tree Infrastructures,2021.0
+112.0,2323,1,4,2.0,5.0,Navallur,Olympia Group,2016.0
+29.0,544,0,1,2.0,0.0,Thirumazhisai,Other,2021.0
+158.0,1025,0,2,2.0,0.0,Anna Nagar,Other,2021.0
+108.0,1972,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+45.99,920,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+73.99,1410,0,3,2.0,0.0,Sholinganallur,Other,2021.0
+162.0,3681,0,4,4.0,0.0,T Nagar,Other,2021.0
+162.0,3750,0,5,2.0,0.0,Guindy,Other,2021.0
+89.7,1380,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+39.75,1205,1,3,2.0,1.0,Perumbakkam,Other,2020.0
+81.7,942,0,2,2.0,0.0,Velachery,Other,2021.0
+51.64,939,0,2,2.0,0.0,Medavakkam,EK Realtors,2021.0
+64.34,945,1,2,2.0,2.0,Gowrivakkam,The Nest Builder,2019.0
+37.4,770,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+62.75,1004,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+89.37,1430,0,3,2.0,0.0,Ambattur,Other,2021.0
+64.82,1297,1,3,2.0,1.0,Other,Other,2020.0
+20.88,663,0,2,2.0,0.0,Thandalam,Other,2021.0
+19.8,900,1,2,2.0,1.0,Thirumazhisai,Other,2020.0
+84.13,1325,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+54.96,1047,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+162.0,4896,1,4,2.0,3.0,Other,Other,2018.0
+96.32,1481,1,3,2.0,4.0,Madipakkam,Other,2017.0
+162.0,1565,1,3,2.0,2.0,Anna Nagar,India Builders Limited,2019.0
+48.53,1055,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+79.92,1150,0,2,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+71.65,1031,0,2,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+58.48,951,0,2,2.0,0.0,Chromepet,DAC Promoters,2021.0
+64.82,1054,0,2,2.0,0.0,Chromepet,DAC Promoters,2021.0
+84.87,1380,0,3,2.0,0.0,Chromepet,DAC Promoters,2021.0
+72.81,1184,0,2,2.0,0.0,Chromepet,DAC Promoters,2021.0
+76.75,1248,0,2,2.0,0.0,Chromepet,DAC Promoters,2021.0
+59.65,970,0,2,2.0,0.0,Chromepet,DAC Promoters,2021.0
+88.19,1434,0,3,2.0,0.0,Chromepet,DAC Promoters,2021.0
+22.27,518,1,1,2.0,1.0,Sembakkam,MP Developers,2020.0
+42.91,998,1,2,2.0,1.0,Sembakkam,MP Developers,2020.0
+50.21,844,0,2,2.0,0.0,Mugalivakkam,MP Developers,2021.0
+55.39,931,0,2,2.0,0.0,Mugalivakkam,MP Developers,2021.0
+71.28,1004,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+72.42,1020,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+94.0,1324,0,3,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+86.9,1224,0,3,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+77.81,1096,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+94.78,1335,0,3,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+73.48,1035,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+114.0,1572,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+119.0,1643,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+118.0,1625,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+159.0,2295,0,4,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+101.0,1760,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+162.0,2544,0,4,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+115.0,1630,0,3,3.0,0.0,Selaiyur,DAC Promoters,2021.0
+121.0,1671,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+122.0,1735,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+152.0,2183,0,4,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+160.0,2242,0,4,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+134.0,1852,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+129.0,1797,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+162.0,2433,0,4,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+162.0,2495,0,4,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+162.0,4450,0,5,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+133.0,1962,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+64.17,1310,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+76.47,1561,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+81.71,1668,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+51.58,1053,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+48.59,992,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+63.34,1293,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+76.47,1561,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+63.83,1303,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+57.41,1172,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+48.74,995,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+62.31,1272,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+82.0,1674,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+62.7,1280,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+74.56,1522,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+94.51,1400,0,3,2.0,0.0,Pallavaram,Radiance Realty Developers India Ltd,2021.0
+64.17,1310,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+69.66,1422,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+48.69,994,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+73.82,1085,0,2,2.0,0.0,Pallavaram,Radiance Realty Developers India Ltd,2021.0
+40.09,853,0,2,2.0,0.0,Kundrathur,MP Developers,2021.0
+38.49,819,0,2,2.0,0.0,Kundrathur,MP Developers,2021.0
+38.77,825,0,2,2.0,0.0,Kundrathur,MP Developers,2021.0
+38.72,824,0,2,2.0,0.0,Kundrathur,MP Developers,2021.0
+69.66,1422,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+48.69,994,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+48.59,992,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+63.34,1293,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+63.83,1303,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+57.41,1172,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+48.74,995,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+62.31,1272,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+62.7,1280,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+63.0,1286,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+49.43,1009,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers India Ltd,2021.0
+80.37,1576,1,3,2.0,1.0,Kundrathur,MP Developers,2020.0
+78.89,1547,1,3,2.0,1.0,Kundrathur,MP Developers,2020.0
+80.68,1582,1,3,2.0,1.0,Kundrathur,MP Developers,2020.0
+70.89,1390,1,3,2.0,1.0,Kundrathur,MP Developers,2020.0
+74.15,1454,1,3,2.0,1.0,Kundrathur,MP Developers,2020.0
+70.94,1391,1,3,2.0,1.0,Kundrathur,MP Developers,2020.0
+79.66,1562,1,3,2.0,1.0,Kundrathur,MP Developers,2020.0
+162.0,2221,0,3,3.0,0.0,Other,Other,2021.0
+162.0,2221,0,3,3.0,0.0,Other,Other,2021.0
+36.0,849,0,2,2.0,0.0,Thirumazhisai,Other,2021.0
+57.0,1240,0,2,2.0,0.0,Perumbakkam,Casagrand Builder Private Limited,2021.0
+110.0,2320,0,4,2.0,0.0,Perumbakkam,Casagrand Builder Private Limited,2021.0
+62.6,1360,0,3,2.0,0.0,Perumbakkam,Casagrand Builder Private Limited,2021.0
+90.29,1962,0,3,3.0,0.0,Perumbakkam,Casagrand Builder Private Limited,2021.0
+138.0,2211,0,4,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+97.57,1668,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+85.99,1470,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+83.86,1342,0,2,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+121.0,1947,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+61.48,1051,0,2,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+115.0,1849,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+139.0,2228,0,4,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+85.17,1363,0,2,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+70.02,1197,0,2,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+47.3,1113,0,2,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+69.53,1636,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+51.38,1209,0,2,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+68.55,1613,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+57.5,1353,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+70.38,1656,0,3,3.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+65.02,1530,0,3,3.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+59.33,1396,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+65.11,1532,0,3,2.0,0.0,Mogappair,Casagrand Builder Private Limited,2021.0
+87.4,1469,1,3,2.0,2.0,Vengaivasal,Other,2019.0
+81.57,1371,1,3,2.0,2.0,Vengaivasal,Other,2019.0
+35.34,594,1,2,2.0,2.0,Vengaivasal,Other,2019.0
+88.29,1484,1,3,2.0,2.0,Vengaivasal,Other,2019.0
+35.16,591,1,2,2.0,2.0,Vengaivasal,Other,2019.0
+35.58,598,1,2,2.0,2.0,Vengaivasal,Other,2019.0
+35.75,601,1,2,2.0,2.0,Vengaivasal,Other,2019.0
+117.0,2132,1,4,2.0,1.0,Other,Other,2020.0
+112.0,2042,1,3,2.0,1.0,Other,Other,2020.0
+148.0,2701,1,3,2.0,1.0,Other,Other,2020.0
+83.65,1521,1,3,2.0,1.0,Other,Other,2020.0
+108.0,1978,1,4,2.0,1.0,Other,Other,2020.0
+78.15,1421,1,3,2.0,1.0,Other,Other,2020.0
+79.98,1740,0,3,2.0,0.0,Sholinganallur,Casagrand Builder Private Limited,2021.0
+79.98,1740,0,3,2.0,0.0,Sholinganallur,Casagrand Builder Private Limited,2021.0
+94.48,2055,0,4,2.0,0.0,Sholinganallur,Casagrand Builder Private Limited,2021.0
+94.48,2055,0,4,2.0,0.0,Sholinganallur,Casagrand Builder Private Limited,2021.0
+68.69,1494,0,3,2.0,0.0,Sholinganallur,Casagrand Builder Private Limited,2021.0
+68.69,1494,0,3,2.0,0.0,Sholinganallur,Casagrand Builder Private Limited,2021.0
+24.25,614,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+24.41,618,0,2,1.0,0.0,Perungalathur,Isha Homes,2021.0
+19.9,504,0,1,2.0,0.0,Perungalathur,Isha Homes,2021.0
+53.07,1005,0,2,2.0,0.0,Gerugambakkam,Other,2021.0
+56.64,1069,0,2,2.0,0.0,Gerugambakkam,Other,2021.0
+37.7,903,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+44.0,1054,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+40.53,971,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+51.01,1222,0,3,2.0,0.0,Perungalathur,Isha Homes,2021.0
+33.19,795,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+48.26,1156,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+36.11,865,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+37.4,896,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+39.78,953,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+32.81,786,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+47.76,1144,0,3,2.0,0.0,Perungalathur,Isha Homes,2021.0
+36.9,884,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+35.77,857,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+32.94,789,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+32.73,784,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+32.69,783,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+47.26,1132,0,3,2.0,0.0,Perungalathur,Isha Homes,2021.0
+33.94,813,0,2,2.0,0.0,Perungalathur,Isha Homes,2021.0
+107.0,1948,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+116.0,2122,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+117.0,2134,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+94.98,1727,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+138.0,2526,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+94.93,1726,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+93.5,1700,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+109.0,1994,1,3,2.0,1.0,Kelambakkam,Isha Homes,2020.0
+162.0,1500,0,3,2.0,0.0,Anna Nagar,Other,2021.0
+162.0,1500,0,3,2.0,0.0,Anna Nagar,Other,2021.0
+162.0,1500,0,3,2.0,0.0,Anna Nagar,Other,2021.0
+66.99,1155,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+49.88,860,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+46.11,795,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+48.88,873,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+74.48,1330,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+74.48,1330,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+63.39,1132,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+63.39,1132,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+72.85,1301,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+72.85,1301,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+66.99,1155,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+46.11,795,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+49.88,860,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+66.99,1155,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+46.11,795,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+66.99,1155,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+49.88,860,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+46.11,795,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+67.62,1166,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+49.88,860,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+67.62,1166,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+60.55,1044,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+60.55,1044,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+42.28,729,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+60.55,1044,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+42.28,729,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+42.28,729,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+77.02,1328,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+77.02,1328,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+57.59,993,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+57.59,993,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+61.88,1067,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+61.88,1067,0,3,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+47.27,815,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+47.27,815,0,2,2.0,0.0,Pammal,Asset Tree Homes,2021.0
+92.65,1287,0,3,2.0,0.0,Porur,Urban Tree Infrastructures,2021.0
+78.1,1085,0,3,3.0,0.0,Porur,Urban Tree Infrastructures,2021.0
+73.93,1027,0,2,2.0,0.0,Porur,Urban Tree Infrastructures,2021.0
+69.9,971,0,2,2.0,0.0,Porur,Urban Tree Infrastructures,2021.0
+69.54,966,0,2,2.0,0.0,Porur,Urban Tree Infrastructures,2021.0
+71.05,1579,1,3,3.0,5.0,Navallur,Olympia Group,2016.0
+115.0,2388,1,4,2.0,5.0,Navallur,Olympia Group,2016.0
+71.01,1578,1,3,2.0,5.0,Navallur,Olympia Group,2016.0
+62.37,1386,1,3,2.0,5.0,Navallur,Olympia Group,2016.0
+70.51,1567,1,3,2.0,5.0,Navallur,Olympia Group,2016.0
+28.0,561,0,2,2.0,0.0,Thirumazhisai,Other,2021.0
+16.0,319,0,1,1.0,0.0,Thirumazhisai,Other,2021.0
+30.0,576,0,2,2.0,0.0,Thirumazhisai,Other,2021.0
+15.36,300,0,1,1.0,0.0,Thirumazhisai,Other,2021.0
+47.84,957,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+47.84,957,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+45.99,920,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+45.99,920,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+47.84,957,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+47.84,957,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+45.59,912,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+45.59,912,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+48.79,976,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+48.79,976,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+46.24,925,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+46.24,925,0,2,2.0,0.0,Vanagaram,VNR Homes,2021.0
+48.64,885,0,2,2.0,0.0,Sholinganallur,Other,2021.0
+74.23,1415,0,3,2.0,0.0,Sholinganallur,Other,2021.0
+48.88,890,0,2,2.0,0.0,Sholinganallur,Other,2021.0
+47.43,860,0,2,2.0,0.0,Sholinganallur,Other,2021.0
+46.95,850,0,2,2.0,0.0,Sholinganallur,Other,2021.0
+47.67,865,0,2,2.0,0.0,Sholinganallur,Other,2021.0
+73.51,1400,0,3,2.0,0.0,Sholinganallur,Other,2021.0
+138.0,2525,1,4,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+75.07,1365,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+68.86,1252,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+101.0,1847,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+74.58,1356,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+132.0,2418,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+64.4,1171,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+109.0,1998,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+77.11,1402,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+80.19,1458,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+70.67,1285,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+141.0,2580,1,4,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+90.91,1653,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+129.0,2357,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+91.3,1660,1,3,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+80.79,1469,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+69.52,1264,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+65.89,1198,1,2,2.0,0.0,Sholinganallur,Appaswamy Real Estate,2021.0
+64.25,1737,1,3,2.0,5.0,Siruseri,Appaswamy Real Estate,2016.0
+60.66,1640,1,3,2.0,5.0,Siruseri,Appaswamy Real Estate,2016.0
+57.22,1547,1,3,2.0,5.0,Siruseri,Appaswamy Real Estate,2016.0
+58.59,1584,1,3,2.0,5.0,Siruseri,Appaswamy Real Estate,2016.0
+55.0,1487,1,3,2.0,5.0,Siruseri,Appaswamy Real Estate,2016.0
+58.85,1591,1,3,2.0,5.0,Siruseri,Appaswamy Real Estate,2016.0
+162.0,1890,0,3,2.0,0.0,Guindy,Other,2021.0
+121.0,2583,1,4,2.0,1.0,Other,Casagrand Builder Private Limited,2020.0
+162.0,5037,1,5,2.0,1.0,Other,Casagrand Builder Private Limited,2020.0
+123.0,2635,1,4,4.0,1.0,Other,Casagrand Builder Private Limited,2020.0
+162.0,5093,1,5,2.0,1.0,Other,Casagrand Builder Private Limited,2020.0
+85.99,1865,1,3,3.0,1.0,Other,Casagrand Builder Private Limited,2020.0
+85.0,1635,0,3,2.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+64.99,1274,0,2,2.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+135.0,2323,0,4,2.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+99.5,1914,0,3,3.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+65.3,1280,0,2,2.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+67.7,1328,0,2,2.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+138.0,2372,0,4,2.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+77.89,1528,0,3,2.0,0.0,Other,Casagrand Builder Private Limited,2021.0
+78.79,1530,1,3,2.0,1.0,Ayanambakkam,Casagrand Builder Private Limited,2020.0
+82.3,1599,1,3,2.0,1.0,Ayanambakkam,Casagrand Builder Private Limited,2020.0
+65.5,1472,0,3,2.0,0.0,Medavakkam,Casagrand Builder Private Limited,2021.0
+95.23,2140,0,4,2.0,0.0,Medavakkam,Casagrand Builder Private Limited,2021.0
+37.15,835,0,2,2.0,0.0,Medavakkam,Casagrand Builder Private Limited,2021.0
+58.47,1314,0,3,2.0,0.0,Medavakkam,Casagrand Builder Private Limited,2021.0
+79.25,1781,0,3,2.0,0.0,Medavakkam,Casagrand Builder Private Limited,2021.0
+79.74,1792,0,3,2.0,0.0,Medavakkam,Casagrand Builder Private Limited,2021.0
+74.0,1605,1,3,2.0,1.0,Karapakkam,Casagrand Builder Private Limited,2020.0
+79.16,1616,1,3,2.0,1.0,Karapakkam,Casagrand Builder Private Limited,2020.0
+75.0,1626,1,3,2.0,1.0,Karapakkam,Casagrand Builder Private Limited,2020.0
+122.0,1882,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+79.49,1223,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+84.24,1296,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+95.61,1471,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+117.0,1807,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+96.0,1477,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+121.0,1871,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+79.3,1220,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+126.0,1947,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+92.1,1417,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+78.84,1213,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+77.61,1194,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+124.0,1922,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+81.57,1255,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+82.48,1269,0,2,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+125.0,1925,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+99.32,1528,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+90.74,1396,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+91.0,1400,0,3,2.0,0.0,Madipakkam,Jones Foundations,2021.0
+32.62,989,1,2,2.0,1.0,Perumbakkam,Other,2020.0
+33.31,1010,1,2,2.0,1.0,Perumbakkam,Other,2020.0
+38.33,1162,1,3,2.0,1.0,Perumbakkam,Other,2020.0
+45.92,1392,1,3,2.0,1.0,Perumbakkam,Other,2020.0
+21.04,638,1,1,2.0,1.0,Perumbakkam,Other,2020.0
+20.68,627,1,1,2.0,1.0,Perumbakkam,Other,2020.0
+59.56,1083,0,2,2.0,0.0,Medavakkam,EK Realtors,2021.0
+51.59,938,0,2,2.0,0.0,Medavakkam,EK Realtors,2021.0
+53.62,975,0,2,2.0,0.0,Medavakkam,EK Realtors,2021.0
+87.45,1590,0,3,2.0,0.0,Medavakkam,EK Realtors,2021.0
+53.57,974,0,2,2.0,0.0,Medavakkam,EK Realtors,2021.0
+87.72,1595,0,3,2.0,0.0,Medavakkam,EK Realtors,2021.0
+55.82,1015,0,2,2.0,0.0,Medavakkam,EK Realtors,2021.0
+80.68,1467,0,3,2.0,0.0,Medavakkam,EK Realtors,2021.0
+162.0,1235,0,3,2.0,0.0,Anna Nagar,Other,2021.0
+57.12,985,0,2,2.0,0.0,Medavakkam,The Nest Builder,2021.0
+57.41,990,0,2,2.0,0.0,Medavakkam,The Nest Builder,2021.0
+62.91,1085,0,2,2.0,0.0,Medavakkam,The Nest Builder,2021.0
+56.25,970,0,2,2.0,0.0,Medavakkam,The Nest Builder,2021.0
+56.83,980,0,2,2.0,0.0,Medavakkam,The Nest Builder,2021.0
+30.99,638,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+59.22,1245,1,3,2.0,1.0,Chromepet,Doshi Housing,2020.0
+43.47,895,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+61.55,1294,1,3,2.0,1.0,Chromepet,Doshi Housing,2020.0
+58.32,1226,1,3,2.0,1.0,Chromepet,Doshi Housing,2020.0
+49.79,1025,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+46.83,964,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+58.84,1237,1,3,2.0,1.0,Chromepet,Doshi Housing,2020.0
+69.92,1470,1,3,3.0,1.0,Chromepet,Doshi Housing,2020.0
+44.64,919,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+63.88,1343,1,3,2.0,1.0,Chromepet,Doshi Housing,2020.0
+60.74,1277,1,3,2.0,1.0,Chromepet,Doshi Housing,2020.0
+44.59,918,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+45.9,945,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+31.38,646,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+59.98,1261,1,3,3.0,1.0,Chromepet,Doshi Housing,2020.0
+63.22,1329,1,3,3.0,1.0,Chromepet,Doshi Housing,2020.0
+56.98,1198,1,3,3.0,1.0,Chromepet,Doshi Housing,2020.0
+47.65,981,1,2,2.0,1.0,Chromepet,Doshi Housing,2020.0
+84.88,1307,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+33.77,538,1,1,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+85.34,1314,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+66.7,1027,1,2,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+88.2,1358,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+66.5,1024,1,2,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+162.0,2686,1,4,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+101.0,1561,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+84.17,1296,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+101.0,1566,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+118.0,1829,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+101.0,1564,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+87.55,1348,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+126.0,1944,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+162.0,2640,1,4,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+34.46,549,1,1,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+162.0,2630,1,4,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+162.0,2616,1,4,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+103.0,1599,1,3,2.0,3.0,Karapakkam,Doshi Housing,2018.0
+80.09,1045,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+47.19,640,0,1,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+82.21,1075,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+69.1,890,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+85.05,1115,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+74.42,965,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+115.0,1290,0,3,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+91.2,1010,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+76.9,1000,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+114.0,1275,0,3,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+118.0,1315,0,3,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+120.0,1320,0,3,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+115.0,1290,0,3,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+91.2,1010,0,2,2.0,0.0,East Tambaram,The Nest Builder,2021.0
+63.18,1011,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+63.18,1011,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+54.81,877,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+54.81,877,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+62.75,1004,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+63.18,1011,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+62.75,1004,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+54.81,877,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+63.18,1011,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+57.87,926,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+54.81,877,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+57.87,926,0,2,2.0,0.0,Sholinganallur,Grandstyle constructions,2021.0
+115.0,1385,1,3,2.0,1.0,Sembakkam,The Nest Builder,2020.0
+110.0,1320,1,3,2.0,1.0,Sembakkam,The Nest Builder,2020.0
+88.73,1050,1,2,2.0,1.0,Sembakkam,The Nest Builder,2020.0
+82.87,975,1,2,2.0,1.0,Sembakkam,The Nest Builder,2020.0
+47.07,585,1,1,2.0,1.0,Sembakkam,The Nest Builder,2020.0
+86.78,1025,1,2,2.0,1.0,Sembakkam,The Nest Builder,2020.0
+124.0,1500,1,3,2.0,1.0,Sembakkam,The Nest Builder,2020.0
+12.83,391,0,1,2.0,0.0,Thandalam,Other,2021.0
+21.0,667,0,2,2.0,0.0,Thandalam,Other,2021.0
+20.97,666,0,2,2.0,0.0,Thandalam,Other,2021.0
+20.77,659,0,2,2.0,0.0,Thandalam,Other,2021.0
+12.89,394,0,1,2.0,0.0,Thandalam,Other,2021.0
+22.19,707,0,2,2.0,0.0,Thandalam,Other,2021.0
+21.21,674,0,2,2.0,0.0,Thandalam,Other,2021.0
+84.13,1325,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+84.13,1325,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.34,1155,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.34,1155,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.21,1153,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.21,1153,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+98.42,1550,0,3,3.0,0.0,Medavakkam,Krishna Constructions,2021.0
+98.42,1550,0,3,3.0,0.0,Medavakkam,Krishna Constructions,2021.0
+83.69,1318,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+83.69,1318,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.46,1157,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.46,1157,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.4,1156,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+73.4,1156,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+99.06,1560,0,3,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+99.06,1560,0,3,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+84.96,1338,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+84.96,1338,0,2,2.0,0.0,Medavakkam,Krishna Constructions,2021.0
+58.43,1113,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+54.81,1044,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+54.96,1047,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+58.43,1113,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+54.81,1044,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+54.96,1047,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+54.81,1044,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+50.76,967,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+50.76,967,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+58.9,1122,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+58.9,1122,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+57.01,1086,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+57.01,1086,0,2,2.0,0.0,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,2021.0
+72.63,1089,1,2,2.0,4.0,Madipakkam,Other,2017.0
+74.25,1114,1,2,2.0,4.0,Madipakkam,Other,2017.0
+92.56,1420,1,3,2.0,4.0,Madipakkam,Other,2017.0
+96.94,1491,1,3,2.0,4.0,Madipakkam,Other,2017.0
+93.47,1435,1,3,2.0,4.0,Madipakkam,Other,2017.0
+85.28,1303,1,3,2.0,4.0,Madipakkam,Other,2017.0
+33.0,601,1,1,2.0,3.0,Ambattur,Other,2018.0
+66.82,1310,0,3,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+64.08,1250,0,3,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+54.14,1050,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+69.33,1365,0,3,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+39.49,800,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+53.45,1035,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+29.72,625,0,1,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+71.39,1410,0,3,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+31.28,660,0,1,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+55.74,1085,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+65.45,1280,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+29.27,615,0,1,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+54.59,1060,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+52.54,1015,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+30.61,645,0,1,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+54.82,1065,0,2,2.0,0.0,Sithalapakkam,The Nest Builder,2021.0
+162.0,1250,0,3,2.0,0.0,Anna Nagar,India Builders Limited,2021.0
+47.38,1030,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+47.15,1025,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+42.55,925,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+44.39,965,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+50.6,1100,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+42.78,930,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+45.54,990,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+55.79,1213,1,3,2.0,3.0,Kolapakkam,Ram,2018.0
+49.91,1085,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+46.92,1020,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+48.99,1065,1,2,2.0,3.0,Kolapakkam,Ram,2018.0
+33.29,1009,0,2,2.0,0.0,Thaiyur,Other,2021.0
+39.5,1197,0,3,2.0,0.0,Thaiyur,Other,2021.0
+33.42,1013,0,2,2.0,0.0,Thaiyur,Other,2021.0
+72.2,1313,1,2,2.0,1.0,Other,Other,2020.0
+49.05,892,1,2,2.0,1.0,Other,Other,2020.0
+64.77,1178,1,2,2.0,1.0,Other,Other,2020.0
+32.3,718,0,2,2.0,0.0,Poonamallee,Other,2021.0
+38.6,858,0,2,2.0,0.0,Poonamallee,Other,2021.0
+33.42,743,0,2,2.0,0.0,Poonamallee,Other,2021.0
+38.96,866,0,2,2.0,0.0,Poonamallee,Other,2021.0
+42.28,588,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+73.82,1085,0,2,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+73.82,1085,0,2,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+42.28,588,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+42.28,588,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+73.82,1085,0,2,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+73.82,1085,0,2,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+71.08,1021,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+71.08,1021,0,2,1.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+108.0,1564,0,3,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+108.0,1564,0,3,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+94.51,1400,0,3,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+94.51,1400,0,3,2.0,0.0,Pallavaram,Radiance Realty Developers,2021.0
+51.24,1046,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+51.24,1046,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+76.86,1569,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+76.86,1569,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+51.24,1046,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+51.24,1046,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+76.86,1569,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+76.86,1569,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+64.17,1310,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+64.17,1310,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+51.73,1056,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+51.73,1056,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+51.58,1053,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+51.58,1053,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+69.66,1422,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+69.66,1422,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+48.69,994,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+48.69,994,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+48.59,992,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+48.59,992,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+63.34,1293,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+63.34,1293,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+76.47,1561,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+76.47,1561,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+63.83,1303,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+63.83,1303,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+57.41,1172,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+57.41,1172,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+48.74,995,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+48.74,995,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+81.71,1668,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+81.71,1668,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+72.01,1470,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+72.01,1470,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+62.31,1272,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+62.31,1272,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+82.0,1674,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+82.0,1674,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+75.54,1542,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+75.54,1542,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+62.7,1280,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+62.7,1280,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+63.0,1286,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+63.0,1286,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+74.56,1522,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+74.56,1522,0,3,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+49.43,1009,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+49.43,1009,0,2,2.0,0.0,Madhavaram,Radiance Realty Developers,2021.0
+67.32,1030,1,2,2.0,1.0,Selaiyur,Other,2020.0
+67.32,1030,1,2,2.0,1.0,Selaiyur,Other,2020.0
+79.71,1226,1,3,2.0,1.0,Selaiyur,Other,2020.0
+79.71,1226,1,3,2.0,1.0,Selaiyur,Other,2020.0
+67.32,1030,1,2,2.0,1.0,Selaiyur,Other,2020.0
+67.32,1030,1,2,2.0,1.0,Selaiyur,Other,2020.0
+79.71,1226,1,3,2.0,1.0,Selaiyur,Other,2020.0
+79.71,1226,1,3,2.0,1.0,Selaiyur,Other,2020.0
+50.21,1152,1,2,3.0,1.0,Padur,Pacifica Companies,2020.0
+50.08,1149,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+50.08,1149,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+49.99,1147,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+49.99,1147,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+59.33,1361,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+59.33,1361,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+56.46,1295,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+56.46,1295,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+54.96,1261,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+54.96,1261,1,2,1.0,1.0,Padur,Pacifica Companies,2020.0
+59.16,1357,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+59.16,1357,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+55.24,1267,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+55.24,1267,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+55.14,1265,1,2,3.0,1.0,Padur,Pacifica Companies,2020.0
+55.14,1265,1,2,3.0,1.0,Padur,Pacifica Companies,2020.0
+55.05,1263,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+55.05,1263,1,2,2.0,1.0,Padur,Pacifica Companies,2020.0
+65.8,1535,0,3,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+39.75,885,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+70.4,1650,0,3,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+56.98,1315,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+47.68,1080,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+162.0,1652,1,3,2.0,1.0,Adyar,Other,2020.0
+162.0,1627,1,3,2.0,1.0,Adyar,Other,2020.0
+62.09,910,1,2,2.0,2.0,Gowrivakkam,The Nest Builder,2019.0
+85.25,1270,1,3,2.0,2.0,Gowrivakkam,The Nest Builder,2019.0
+51.44,973,0,2,2.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+54.52,806,1,2,2.0,1.0,East Tambaram,VGK Builders Pvt Ltd,2020.0
+49.77,734,1,2,2.0,1.0,East Tambaram,VGK Builders Pvt Ltd,2020.0
+59.4,882,1,2,2.0,1.0,East Tambaram,VGK Builders Pvt Ltd,2020.0
+87.27,1106,0,3,2.0,0.0,East Tambaram,VGK Builders Pvt Ltd,2021.0
+105.0,1360,0,4,2.0,0.0,East Tambaram,VGK Builders Pvt Ltd,2021.0
+71.68,893,0,2,2.0,0.0,East Tambaram,VGK Builders Pvt Ltd,2021.0
+70.44,876,0,2,2.0,0.0,East Tambaram,VGK Builders Pvt Ltd,2021.0
+65.97,1115,0,2,2.0,0.0,Madambakkam,VGK Builders Pvt Ltd,2021.0
+59.17,992,0,2,2.0,0.0,Madambakkam,VGK Builders Pvt Ltd,2021.0
+57.34,958,0,2,2.0,0.0,Madambakkam,VGK Builders Pvt Ltd,2021.0
+58.64,982,0,2,2.0,0.0,Madambakkam,VGK Builders Pvt Ltd,2021.0
+58.69,981,0,2,2.0,0.0,Madambakkam,VGK Builders Pvt Ltd,2021.0
+38.61,990,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+35.45,909,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+35.52,911,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+25.15,645,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+35.49,910,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.92,639,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+35.13,901,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.84,637,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+37.86,971,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+27.65,709,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+25.03,642,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+35.33,906,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.57,630,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.53,629,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.49,628,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+34.94,896,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+37.63,965,0,3,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.68,633,0,2,1.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.25,622,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.41,626,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+34.2,877,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+24.02,616,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+34.32,880,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+34.28,879,0,2,2.0,0.0,Chromepet,Amarprakash Developers Pvt Ltd,2021.0
+131.0,1556,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2550,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2288,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,3096,0,4,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2256,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2030,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2269,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+124.0,1477,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+147.0,1734,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+113.0,1343,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2004,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,3252,0,4,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2223,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2242,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2238,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1989,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+147.0,1723,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+146.0,1730,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+156.0,1836,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+111.0,1311,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+131.0,1561,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2429,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+110.0,1317,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+111.0,1313,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1636,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2113,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+132.0,1176,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+134.0,1583,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+131.0,1174,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+133.0,1577,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1838,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+132.0,1180,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+133.0,1580,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2307,0,4,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,1816,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2398,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2301,0,4,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,3210,0,4,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1624,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,1941,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+137.0,1225,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+130.0,1159,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2111,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,2285,0,4,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2109,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1831,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,1944,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+138.0,1232,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2280,0,4,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+118.0,1394,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1604,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+136.0,1211,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+117.0,1392,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1811,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2060,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+129.0,1154,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2063,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1617,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,1615,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+118.0,1398,0,2,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+135.0,1204,0,2,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+162.0,2073,0,3,2.0,0.0,Perungudi,Appaswamy Real Estate,2021.0
+162.0,1597,0,3,2.0,0.0,Vadapalani,Appaswamy Real Estate,2021.0
+65.64,1380,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+53.47,1117,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+23.22,540,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+46.99,1093,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+25.19,586,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+45.75,1064,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+25.06,583,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+25.02,582,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+45.53,1059,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+68.38,1439,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+68.47,1441,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+44.72,1040,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+68.75,1447,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+67.63,1423,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+67.77,1426,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+66.81,1405,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+54.72,1144,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+54.63,1142,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+55.19,1154,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+43.94,1022,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+66.1,1390,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+54.09,1130,1,2,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+23.65,550,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+66.3,1394,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+23.47,546,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+66.35,1395,1,3,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+23.26,541,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+23.39,544,1,1,2.0,0.0,Tiruvottiyur,Hansa Estates,2021.0
+111.0,1645,1,3,2.0,4.0,Iyappanthangal,Other,2017.0
+121.0,1790,1,3,2.0,4.0,Iyappanthangal,Other,2017.0
+119.0,1760,1,3,2.0,4.0,Iyappanthangal,Other,2017.0
+115.0,1700,1,3,3.0,4.0,Iyappanthangal,Other,2017.0
+117.0,1730,1,3,2.0,4.0,Iyappanthangal,Other,2017.0
+79.72,1000,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+75.04,972,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+57.35,730,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+63.27,811,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+93.27,1171,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+58.82,750,0,2,2.0,0.0,East Tambaram,DAC Promoters,2021.0
+35.74,1030,1,2,2.0,1.0,Other,Other,2020.0
+30.71,893,1,2,2.0,1.0,Other,Other,2020.0
+28.1,810,1,2,2.0,1.0,Other,Other,2020.0
+54.03,837,0,2,2.0,0.0,Pallavaram,DAC Promoters,2021.0
+54.39,861,0,2,2.0,0.0,Pallavaram,DAC Promoters,2021.0
+49.44,777,0,2,2.0,0.0,Pallavaram,DAC Promoters,2021.0
+52.42,783,0,2,2.0,0.0,Pallavaram,DAC Promoters,2021.0
+54.57,864,0,2,2.0,0.0,Pallavaram,DAC Promoters,2021.0
+106.0,1405,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+58.44,919,0,2,2.0,0.0,Pammal,DAC Promoters,2021.0
+84.17,1094,0,2,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+89.4,1414,0,3,2.0,0.0,Pammal,DAC Promoters,2021.0
+70.64,909,0,2,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+62.41,988,0,2,2.0,0.0,Pammal,DAC Promoters,2021.0
+131.0,1689,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+61.83,978,0,2,2.0,0.0,Pammal,DAC Promoters,2021.0
+129.0,1656,0,3,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+80.6,1261,0,3,2.0,0.0,Pammal,DAC Promoters,2021.0
+76.64,991,0,2,2.0,0.0,Selaiyur,DAC Promoters,2021.0
+162.0,2348,1,3,2.0,3.0,Alwarpet,Olympia Group,2018.0
+162.0,2476,1,3,2.0,3.0,Alwarpet,Olympia Group,2018.0
+162.0,2781,1,4,2.0,3.0,Alwarpet,Olympia Group,2018.0
+162.0,2713,1,4,2.0,3.0,Alwarpet,Olympia Group,2018.0
+162.0,4729,1,4,2.0,0.0,Sholinganallur,Olympia Group,2021.0
+162.0,4623,1,4,2.0,0.0,Sholinganallur,Olympia Group,2021.0
+162.0,5677,1,5,2.0,0.0,Sholinganallur,Olympia Group,2021.0
+162.0,3700,1,3,2.0,4.0,Other,Olympia Group,2017.0
+64.59,1244,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+59.08,1143,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+64.59,1244,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+64.59,1244,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+59.08,1143,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+59.08,1143,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+70.09,1249,0,3,2.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+70.09,1249,0,3,2.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+59.41,1150,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+59.41,1150,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+64.02,1246,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+64.02,1246,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+70.67,1155,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+70.67,1155,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+58.77,1124,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+58.77,1124,0,3,3.0,0.0,Perumbakkam,Saradeuz Realty Constructions,2021.0
+80.47,1239,0,3,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+62.09,956,0,2,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+81.31,1252,0,3,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+81.05,1248,0,2,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+61.37,945,0,2,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+70.99,1093,0,2,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+61.18,942,0,2,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+79.43,1223,0,2,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+84.17,1296,0,3,2.0,0.0,Porur,SP Homes Pvt Ltd,2021.0
+162.0,1571,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1245,0,2,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1238,0,2,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1976,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1842,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1979,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1313,0,2,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1951,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1225,0,2,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1894,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1233,0,2,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,2737,0,4,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,2729,0,4,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1877,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1874,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1521,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,2765,0,4,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,3289,0,4,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,2758,0,4,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+162.0,1987,0,3,2.0,0.0,Kotturpuram,Appaswamy Real Estate,2021.0
+48.21,928,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+40.59,743,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+22.99,430,1,1,2.0,1.0,Pammal,Bharathi Construction,2020.0
+45.03,830,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+35.32,652,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+35.32,652,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+66.05,1216,1,3,2.0,1.0,Pammal,Bharathi Construction,2020.0
+66.05,1216,1,3,2.0,1.0,Pammal,Bharathi Construction,2020.0
+42.3,791,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+42.3,791,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+39.19,729,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+39.19,729,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+53.54,976,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+53.54,976,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+45.72,859,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+45.72,859,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+28.43,546,1,1,2.0,1.0,Pammal,Bharathi Construction,2020.0
+28.43,546,1,1,2.0,1.0,Pammal,Bharathi Construction,2020.0
+43.41,813,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+43.41,813,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+53.81,1145,1,3,2.0,1.0,Pammal,Bharathi Construction,2020.0
+23.12,492,1,1,2.0,1.0,Pammal,Bharathi Construction,2020.0
+47.23,1005,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+39.48,840,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+38.63,822,1,2,2.0,1.0,Pammal,Bharathi Construction,2020.0
+52.36,952,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+39.49,718,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+35.86,652,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+67.1,1220,0,3,2.0,0.0,Pammal,Bharathi Construction,2021.0
+44.0,800,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+40.05,890,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+38.25,850,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+56.02,1050,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+46.84,905,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+55.97,1049,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+44.63,860,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+45.37,875,0,2,2.0,0.0,Pammal,Bharathi Construction,2021.0
+62.14,1170,0,3,2.0,0.0,Pammal,Bharathi Construction,2021.0
+162.0,5879,1,5,2.0,3.0,Other,Other,2018.0
+162.0,5765,1,5,2.0,3.0,Other,Other,2018.0
+70.0,1112,1,2,2.0,2.0,Other,Urban Tree Infrastructures,2019.0
+89.0,1414,1,3,3.0,2.0,Other,Urban Tree Infrastructures,2019.0
+69.0,1092,1,2,2.0,2.0,Other,Urban Tree Infrastructures,2019.0
+85.0,1358,1,3,2.0,2.0,Other,Urban Tree Infrastructures,2019.0
+59.29,1078,0,2,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+59.18,1076,0,2,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+86.51,1573,0,3,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+82.88,1507,0,3,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+86.73,1577,0,3,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+59.73,1086,0,2,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+57.86,1052,0,2,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+87.34,1588,0,3,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+62.59,1138,0,2,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+64.02,1164,0,2,2.0,0.0,Mugalivakkam,Karuppaswamy Builders,2021.0
+40.84,1238,1,3,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+41.0,1243,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+40.94,1241,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.99,1000,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+22.96,696,1,1,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+36.98,1121,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+20.88,633,1,1,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+41.27,1251,1,3,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+36.75,1114,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+40.31,1222,1,3,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+36.09,1094,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+44.89,1361,1,3,3.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.89,997,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.52,986,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+30.21,916,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+26.75,811,1,1,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+44.63,1353,1,3,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.26,978,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+43.77,1327,1,3,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.16,975,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+25.79,782,1,1,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.39,982,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.33,980,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+25.69,779,1,1,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+34.4,1043,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+34.73,1053,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+32.03,971,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+31.83,965,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+26.65,808,1,1,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+31.37,951,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+29.19,885,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+24.84,753,1,1,1.0,3.0,Kelambakkam,Advaita Homes,2018.0
+42.22,1280,1,3,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+33.31,1010,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+31.14,944,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+26.75,811,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+33.28,1009,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+31.07,942,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+37.08,1124,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+31.27,948,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+46.25,1402,1,3,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+33.41,1013,1,2,2.0,3.0,Kelambakkam,Advaita Homes,2018.0
+35.65,926,0,3,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+39.73,1032,0,3,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+33.3,865,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+36.53,949,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+33.88,880,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+48.39,1042,0,3,2.0,0.0,Pammal,Merlin Group,2021.0
+49.83,1074,0,3,2.0,0.0,Pammal,Merlin Group,2021.0
+42.81,918,0,2,2.0,0.0,Pammal,Merlin Group,2021.0
+46.54,1001,0,3,2.0,0.0,Pammal,Merlin Group,2021.0
+42.67,917,0,2,2.0,0.0,Pammal,Merlin Group,2021.0
+46.72,1005,0,3,2.0,0.0,Pammal,Merlin Group,2021.0
+43.21,927,0,2,2.0,0.0,Pammal,Merlin Group,2021.0
+46.99,1011,0,3,2.0,0.0,Pammal,Merlin Group,2021.0
+49.42,1065,0,3,2.0,0.0,Pammal,Merlin Group,2021.0
+42.67,915,0,2,2.0,0.0,Pammal,Merlin Group,2021.0
+29.55,788,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+33.11,883,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+33.11,883,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+29.66,791,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+29.66,791,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+29.21,779,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+29.21,779,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+34.53,921,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+34.53,921,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+31.72,846,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+31.72,846,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.15,804,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.15,804,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.15,804,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.03,801,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.15,804,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.03,801,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.3,808,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.3,808,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+34.68,925,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+34.68,925,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+31.46,839,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+28.98,773,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+31.46,839,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+28.98,773,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.97,826,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+30.97,826,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+31.16,831,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+31.16,831,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+29.55,788,0,2,2.0,0.0,Thirumullaivoyal,Swamaan Developers,2021.0
+162.0,1450,0,3,2.0,0.0,Anna Nagar,India Builders Limited,2021.0
+79.54,1473,1,3,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+54.1,1002,1,2,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+76.57,1418,1,3,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+90.46,1508,1,3,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+104.0,1745,1,3,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+104.0,1745,1,3,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+131.0,2185,1,4,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+92.98,1550,1,3,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+91.18,1520,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+162.0,3024,1,5,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+162.0,3024,1,5,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+97.0,1617,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+97.0,1617,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+80.26,1338,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+80.26,1338,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+79.54,1473,1,3,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+54.1,1002,1,2,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+76.57,1418,1,3,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+52.43,971,1,2,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+76.68,1420,1,3,3.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+53.89,998,1,2,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+53.83,997,1,2,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+88.23,1634,1,3,3.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+91.18,1520,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+162.0,3024,1,5,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+162.0,3024,1,5,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+97.0,1617,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+97.0,1617,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+80.26,1338,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+80.26,1338,1,2,2.0,4.0,Kolapakkam,Poojaa Foundation,2017.0
+53.83,997,1,2,2.0,1.0,Poonamallee,Poojaa Foundation,2020.0
+162.0,1540,0,3,2.0,0.0,Anna Nagar,India Builders Limited,2021.0
+162.0,1520,0,3,2.0,0.0,Anna Nagar,India Builders Limited,2021.0
+162.0,1525,0,3,2.0,0.0,Anna Nagar,India Builders Limited,2021.0
+162.0,1400,0,3,2.0,0.0,Other,India Builders Limited,2021.0
+162.0,1500,0,3,3.0,0.0,Anna Nagar,India Builders Limited,2021.0
+162.0,1450,0,3,2.0,0.0,Other,India Builders Limited,2021.0
+162.0,1240,0,2,2.0,0.0,Anna Nagar,India Builders Limited,2021.0
+162.0,1215,0,2,2.0,0.0,Anna Nagar,India Builders Limited,2021.0
+162.0,1375,1,3,3.0,0.0,Anna Nagar,India Builders Limited,2021.0
+162.0,2230,0,4,4.0,0.0,Adyar,India Builders Limited,2021.0
+162.0,1520,0,3,2.0,0.0,T Nagar,India Builders Limited,2021.0
+63.1,1242,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+162.0,6023,1,4,2.0,5.0,Sholinganallur,Prestige Estates Projects Ltd,2016.0
+130.0,1166,1,2,2.0,5.0,Sholinganallur,Prestige Estates Projects Ltd,2016.0
+162.0,2474,1,4,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+162.0,2277,1,4,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+130.0,1800,1,3,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+162.0,2533,1,4,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+139.0,1938,1,3,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+162.0,2621,1,4,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+143.0,1990,1,3,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+131.0,1825,1,3,2.0,6.0,Iyappanthangal,Prestige Estates Projects Ltd,2015.0
+63.1,1242,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+33.71,604,0,1,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+33.66,603,0,1,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+63.51,1250,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+63.3,1246,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+33.77,605,0,1,1.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+33.44,599,0,1,1.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+33.6,602,0,1,1.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+88.75,1761,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+62.85,1237,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+94.19,1869,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+77.54,1468,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+70.2,1329,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+87.79,1742,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+68.64,1351,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+88.04,1747,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+93.49,1855,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+80.23,1592,0,3,3.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+92.43,1834,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+86.08,1708,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+79.38,1575,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+91.87,1823,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+85.12,1689,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+90.77,1801,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+65.28,1285,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+63.96,1259,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+64.52,1270,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+64.47,1269,0,2,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+90.31,1792,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+83.66,1660,0,3,2.0,0.0,Sholinganallur,Prestige Estates Projects Ltd,2021.0
+40.0,1047,1,2,2.0,4.0,Other,seller,2017.0
+42.43,943,1,2,2.0,4.0,Gerugambakkam,seller,2017.0
+46.0,900,1,2,2.0,0.0,Other,seller,2021.0
+65.0,1600,0,3,2.0,0.0,Kolathur,seller,2021.0
+135.0,1415,1,3,3.0,0.0,Other,seller,2021.0
+162.0,1500,1,3,2.0,11.0,Anna Nagar,seller,2010.0
+48.0,1300,1,2,2.0,0.0,Madhavaram,seller,2021.0
+162.0,3600,1,3,3.0,0.0,Other,seller,2021.0
+72.0,1400,1,3,2.0,7.0,Other,seller,2014.0
+74.0,1100,0,3,3.0,0.0,Nanmangalam,seller,2021.0
+45.0,909,1,2,2.0,3.0,Perumbakkam,seller,2018.0
+54.0,893,1,2,2.0,0.0,Kolathur,seller,2021.0
+140.0,1270,1,3,2.0,13.0,Other,seller,2008.0
+72.0,1218,0,3,3.0,0.0,Sembakkam,seller,2021.0
+65.0,919,1,2,2.0,0.0,Madipakkam,seller,2021.0
+27.0,756,1,2,2.0,0.0,Other,seller,2021.0
+52.5,550,1,1,1.0,0.0,Urapakkam,seller,2021.0
+63.0,1000,1,2,2.0,0.0,Kovur,seller,2021.0
+54.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+162.0,1154,1,2,2.0,0.0,Other,seller,2021.0
+26.0,540,1,1,1.0,0.0,Other,seller,2021.0
+60.0,1066,1,2,2.0,0.0,Velachery,seller,2021.0
+162.0,1381,0,3,3.0,0.0,Adyar,seller,2021.0
+100.0,1735,1,3,3.0,7.0,Guduvancheri,seller,2014.0
+30.5,770,1,2,2.0,0.0,Pammal,seller,2021.0
+36.0,827,1,2,2.0,0.0,Urapakkam,seller,2021.0
+82.0,1900,1,3,3.0,0.0,Kolapakkam,seller,2021.0
+162.0,2500,1,3,2.0,0.0,Sembakkam,seller,2021.0
+55.0,1050,1,1,2.0,9.0,Koyambedu,seller,2012.0
+75.0,850,0,2,2.0,0.0,Other,seller,2021.0
+162.0,2280,1,4,3.0,5.0,Iyyappanthangal,seller,2016.0
+110.0,2740,1,4,2.0,0.0,Other,seller,2021.0
+162.0,2640,1,4,4.0,0.0,Other,seller,2021.0
+160.0,2700,1,4,3.0,0.0,Kolathur,seller,2021.0
+162.0,1438,1,3,2.0,3.0,Other,seller,2018.0
+53.0,850,0,2,2.0,0.0,Other,seller,2021.0
+53.0,850,0,2,2.0,0.0,Other,seller,2021.0
+50.0,905,1,2,2.0,6.0,Other,seller,2015.0
+162.0,1950,1,4,3.0,0.0,T Nagar,seller,2021.0
+35.0,900,1,2,2.0,0.0,Thirumullaivoyal,seller,2021.0
+28.0,502,1,1,1.0,9.0,Perungalathur,seller,2012.0
+69.0,1071,1,2,2.0,1.0,Other,seller,2020.0
+68.49,1343,1,3,4.0,2.0,Other,seller,2019.0
+77.0,1560,1,2,2.0,0.0,Navallur,seller,2021.0
+32.0,612,1,2,2.0,3.0,Veppampattu,seller,2018.0
+75.0,1456,1,3,3.0,0.0,Porur,seller,2021.0
+162.0,2590,1,4,4.0,0.0,Kundrathur,seller,2021.0
+41.0,600,0,2,2.0,0.0,Other,seller,2021.0
+45.0,1176,0,2,2.0,0.0,Guduvancheri,seller,2021.0
+60.21,782,0,1,1.0,0.0,Other,seller,2021.0
+49.5,1000,0,2,2.0,0.0,Medavakkam,seller,2021.0
+25.0,605,1,1,1.0,4.0,Thaiyur,seller,2017.0
+41.78,1045,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+62.98,1575,0,3,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+63.18,1580,0,3,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+42.18,1055,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+64.38,1610,0,3,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+60.58,1515,0,3,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+42.18,1055,0,2,2.0,0.0,Sholinganallur,BSCPL Infrastructure Ltd,2021.0
+60.78,1520,0,3,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+60.58,1515,0,3,2.0,0.0,Sholinganallur,BSCPL Infrastructure Ltd,2021.0
+54.98,1375,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+41.02,1026,0,2,2.0,0.0,Sholinganallur,BSCPL Infrastructure Ltd,2021.0
+40.58,1015,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+53.58,1340,0,2,2.0,0.0,Sholinganallur,BSCPL Infrastructure Ltd,2021.0
+53.58,1340,0,2,2.0,0.0,Perumbakkam,BSCPL Infrastructure Ltd,2021.0
+45.0,670,1,2,2.0,0.0,Other,seller,2021.0
+19.59,540,1,1,2.0,3.0,Veppampattu,seller,2018.0
+27.0,600,0,2,4.0,0.0,Siruseri,seller,2021.0
+37.0,793,0,2,2.0,0.0,Other,seller,2021.0
+65.0,1047,1,2,2.0,4.0,Perungalathur,seller,2017.0
+162.0,3000,1,6,4.0,0.0,Madipakkam,seller,2021.0
+59.6,450,1,1,1.0,0.0,T Nagar,seller,2021.0
+38.0,825,1,2,2.0,0.0,Ambattur,seller,2021.0
+15.0,540,1,2,1.0,0.0,Other,seller,2021.0
+35.0,840,1,2,2.0,5.0,Kelambakkam,seller,2016.0
+35.0,850,1,3,3.0,0.0,Other,seller,2021.0
+40.0,655,1,2,2.0,0.0,Other,seller,2021.0
+48.5,1100,1,2,2.0,0.0,Guduvancheri,seller,2021.0
+90.0,3408,1,5,5.0,0.0,Other,seller,2021.0
+100.0,1400,1,3,3.0,3.0,Other,seller,2018.0
+90.0,3408,1,5,5.0,0.0,Other,seller,2021.0
+65.0,1273,0,3,3.0,0.0,Other,seller,2021.0
+29.0,506,1,2,1.0,0.0,Mogappair,seller,2021.0
+28.5,736,1,2,2.0,4.0,Pozhichalur,seller,2017.0
+26.0,850,1,2,2.0,3.0,Veppampattu,seller,2018.0
+45.0,950,0,2,2.0,0.0,Gerugambakkam,seller,2021.0
+15.0,450,1,1,1.0,0.0,Other,seller,2021.0
+46.0,820,0,2,2.0,0.0,Guduvancheri,seller,2021.0
+30.0,960,1,2,2.0,3.0,Veppampattu,seller,2018.0
+98.0,1253,1,3,2.0,0.0,Other,seller,2021.0
+83.0,997,1,2,2.0,0.0,Other,seller,2021.0
+38.0,510,1,1,1.0,0.0,West Mambalam,seller,2021.0
+135.0,1950,1,3,3.0,0.0,Other,seller,2021.0
+72.0,1957,1,3,3.0,6.0,Other,seller,2015.0
+40.0,1000,0,2,2.0,0.0,Kolathur,seller,2021.0
+160.0,2300,1,4,4.0,0.0,Other,seller,2021.0
+137.0,1485,1,3,3.0,0.0,Perungudi,seller,2021.0
+59.0,1430,1,3,2.0,0.0,Sithalapakkam,seller,2021.0
+65.0,900,1,2,2.0,0.0,Other,seller,2021.0
+65.0,900,1,2,2.0,0.0,Other,seller,2021.0
+120.0,2400,1,5,4.0,0.0,Other,seller,2021.0
+45.0,917,1,2,2.0,0.0,Other,seller,2021.0
+40.0,680,1,2,1.0,12.0,Other,seller,2009.0
+30.0,950,0,2,2.0,0.0,Veppampattu,seller,2021.0
+19.5,600,0,1,1.0,0.0,Other,seller,2021.0
+45.0,580,1,1,1.0,4.0,Siruseri,seller,2017.0
+45.0,840,1,2,2.0,7.0,Other,seller,2014.0
+145.0,1125,1,3,2.0,0.0,Other,seller,2021.0
+40.7,760,0,2,2.0,0.0,Other,Other,2021.0
+46.06,940,1,2,2.0,5.0,Iyyappanthangal,HM Homes,2016.0
+50.22,1025,1,2,2.0,5.0,Iyyappanthangal,HM Homes,2016.0
+43.61,890,1,2,2.0,5.0,Iyyappanthangal,HM Homes,2016.0
+39.93,815,1,2,2.0,5.0,Iyyappanthangal,HM Homes,2016.0
+50.47,1030,1,2,2.0,5.0,Iyyappanthangal,HM Homes,2016.0
+50.47,1030,1,2,2.0,5.0,Iyyappanthangal,HM Homes,2016.0
+42.23,862,1,2,2.0,5.0,Iyyappanthangal,HM Homes,2016.0
+162.0,1942,1,3,3.0,4.0,Other,Other,2017.0
+47.02,825,1,2,2.0,3.0,Other,HM Homes,2018.0
+47.02,825,1,2,2.0,0.0,Other,HM Homes,2021.0
+37.0,730,1,2,2.0,4.0,Gerugambakkam,R Venkatesan,2017.0
+55.99,1015,1,2,2.0,4.0,Gerugambakkam,R Venkatesan,2017.0
+54.75,1020,1,2,2.0,0.0,Kovur,R Venkatesan,2021.0
+39.15,1050,1,2,2.0,4.0,Gerugambakkam,R Venkatesan,2017.0
+58.58,1100,1,2,3.0,4.0,Gerugambakkam,R Venkatesan,2017.0
+54.22,1015,1,2,2.0,4.0,Gerugambakkam,R Venkatesan,2017.0
+44.19,878,1,2,2.0,4.0,Gerugambakkam,R Venkatesan,2017.0
+39.73,790,1,2,2.0,4.0,Gerugambakkam,R Venkatesan,2017.0
+38.58,819,1,2,2.0,0.0,Kovur,R Venkatesan,2021.0
+38.23,815,1,2,2.0,0.0,Kovur,R Venkatesan,2021.0
+41.0,874,1,2,3.0,0.0,Kovur,R Venkatesan,2021.0
+38.53,799,1,2,2.0,0.0,Kovur,R Venkatesan,2021.0
+24.0,1010,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+162.0,5000,1,4,3.0,0.0,Other,Other,2021.0
+162.0,1650,1,3,3.0,0.0,Other,Other,2021.0
+47.02,825,1,2,2.0,0.0,Other,HM Homes,2021.0
+47.02,825,1,2,2.0,0.0,Other,HM Homes,2021.0
+79.8,1400,1,3,3.0,3.0,Other,HM Homes,2018.0
+56.0,1258,1,2,2.0,0.0,Sholinganallur,Other,2021.0
+50.22,1025,1,3,3.0,0.0,Kolapakkam,HM Homes,2021.0
+162.0,4000,1,4,4.0,0.0,Other,Other,2021.0
+50.22,1025,1,3,3.0,0.0,Kolapakkam,HM Homes,2021.0
+40.42,825,1,2,2.0,0.0,Kolapakkam,HM Homes,2021.0
+54.0,1000,1,2,3.0,0.0,Kovur,Other,2021.0
+110.0,974,1,2,2.0,0.0,Other,Other,2021.0
+42.14,860,1,2,2.0,0.0,Kolapakkam,HM Homes,2021.0
+162.0,1844,1,3,3.0,16.0,Velachery,seller,2005.0
+59.0,1096,1,3,2.0,9.0,Other,seller,2012.0
+41.7,760,0,2,2.0,0.0,Other,Other,2021.0
+40.75,750,0,2,2.0,0.0,Other,Other,2021.0
+162.0,994,0,2,2.0,0.0,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+43.0,891,1,2,2.0,0.0,Thandalam,Other,2021.0
+48.99,800,0,2,2.0,0.0,Kelambakkam,Other,2021.0
+49.0,800,0,2,2.0,0.0,Kelambakkam,Other,2021.0
+162.0,2200,1,4,4.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+162.0,994,1,2,2.0,0.0,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+44.5,918,1,3,2.0,0.0,Padur,Other,2021.0
+27.6,600,0,2,2.0,0.0,Semmancheri,Other,2021.0
+27.6,600,0,2,2.0,0.0,Semmancheri,Other,2021.0
+31.6,750,0,2,2.0,0.0,Other,Other,2021.0
+34.0,700,0,2,2.0,0.0,Semmancheri,Other,2021.0
+162.0,4000,1,4,3.0,0.0,T Nagar,Other,2021.0
+162.0,1550,1,3,3.0,0.0,Anna Nagar,Other,2021.0
+162.0,4600,1,5,4.0,0.0,Anna Nagar,Other,2021.0
+85.09,1340,0,3,2.0,0.0,East Tambaram,Other,2021.0
+63.62,1002,0,2,2.0,0.0,East Tambaram,Other,2021.0
+63.56,1001,0,2,2.0,0.0,East Tambaram,Other,2021.0
+68.13,1073,0,2,2.0,0.0,East Tambaram,Other,2021.0
+62.35,982,0,2,2.0,0.0,East Tambaram,Other,2021.0
+61.27,965,0,2,2.0,0.0,East Tambaram,Other,2021.0
+93.21,1468,0,3,2.0,0.0,East Tambaram,Other,2021.0
+84.77,1335,0,3,2.0,0.0,East Tambaram,Other,2021.0
+90.99,1433,0,3,2.0,0.0,East Tambaram,Other,2021.0
+55.0,1000,1,2,2.0,0.0,Other,seller,2021.0
+162.0,2133,0,2,2.0,0.0,T Nagar,Propsource Realty Private Limited,2021.0
+35.0,620,1,1,1.0,3.0,Other,Propsource Realty Private Limited,2018.0
+162.0,4361,1,4,4.0,0.0,Other,seller,2021.0
+44.5,918,1,3,2.0,0.0,Padur,Other,2021.0
+38.5,800,1,2,2.0,6.0,Other,Other,2015.0
+162.0,1975,1,3,3.0,6.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2015.0
+40.08,835,1,2,2.0,2.0,Pozhichalur,Sandhya,2019.0
+40.22,838,1,2,2.0,2.0,Pozhichalur,Sandhya,2019.0
+32.3,673,1,2,2.0,2.0,Pozhichalur,Sandhya,2019.0
+162.0,3700,0,4,4.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+99.0,1500,0,3,3.0,0.0,Iyyappanthangal,Other,2021.0
+55.0,1000,1,2,3.0,0.0,Kovur,Other,2021.0
+37.8,790,1,2,2.0,4.0,Gerugambakkam,Other,2017.0
+44.0,938,1,2,2.0,0.0,Kovur,Other,2021.0
+39.88,1040,0,3,2.0,0.0,Siruseri,Other,2021.0
+162.0,1490,1,3,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+130.0,1330,1,2,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+162.0,2889,1,3,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+58.0,1318,1,3,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+162.0,1657,1,3,3.0,7.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2014.0
+147.0,1550,1,3,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+150.0,1350,1,3,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+115.0,1150,1,2,2.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+162.0,1440,1,3,3.0,0.0,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+110.0,1310,1,2,2.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+125.0,1765,0,3,3.0,0.0,Navallur,Propsource Realty Private Limited,2021.0
+162.0,2000,0,3,3.0,0.0,Guindy,Propsource Realty Private Limited,2021.0
+96.0,1900,0,3,3.0,0.0,Perungalathur,Propsource Realty Private Limited,2021.0
+87.8,1541,0,3,3.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+79.8,1400,0,3,3.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+44.16,803,1,2,2.0,2.0,Pammal,Other,2019.0
+41.58,756,1,1,2.0,2.0,Pammal,Other,2019.0
+32.01,582,1,1,2.0,2.0,Pammal,Other,2019.0
+73.0,1737,1,3,3.0,7.0,Kelambakkam,seller,2014.0
+18.49,520,1,1,2.0,3.0,Veppampattu,seller,2018.0
+24.09,502,0,1,2.0,0.0,Pozhichalur,Sandhya,2021.0
+33.93,707,0,2,2.0,0.0,Pozhichalur,Sandhya,2021.0
+22.84,476,0,1,2.0,0.0,Pozhichalur,Sandhya,2021.0
+35.85,747,0,2,2.0,0.0,Pozhichalur,Sandhya,2021.0
+23.13,503,0,1,2.0,0.0,Other,Sandhya,2021.0
+41.63,905,0,3,2.0,0.0,Other,Sandhya,2021.0
+32.75,712,0,2,2.0,0.0,Other,Sandhya,2021.0
+32.2,700,0,2,2.0,0.0,Other,Sandhya,2021.0
+20.56,447,0,1,2.0,0.0,Other,Sandhya,2021.0
+57.0,1075,1,2,2.0,6.0,Other,Other,2015.0
+54.0,950,0,2,2.0,0.0,Gerugambakkam,Other,2021.0
+162.0,2300,0,3,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+162.0,2336,1,3,3.0,6.0,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,2015.0
+162.0,1950,1,3,3.0,0.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+162.0,2133,0,3,3.0,0.0,T Nagar,MEHTA REAL ESTATE CHENNAI LLP,2021.0
+162.0,2028,1,3,3.0,7.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2014.0
+162.0,2350,1,3,3.0,7.0,Other,MEHTA REAL ESTATE CHENNAI LLP,2014.0
+55.21,986,1,2,2.0,0.0,Kolathur,Other,2021.0
+55.21,986,1,2,2.0,0.0,Kolathur,Other,2021.0
+36.42,710,1,1,2.0,0.0,Kovur,R Venkatesan,2021.0
+35.26,619,1,1,1.0,0.0,Kovur,R Venkatesan,2021.0
+35.52,629,1,1,2.0,0.0,Kovur,R Venkatesan,2021.0
+72.0,1517,1,3,3.0,6.0,Other,R Venkatesan,2015.0
+55.0,1020,1,2,2.0,0.0,Kovur,R Venkatesan,2021.0
+28.0,650,0,2,2.0,0.0,Other,R Venkatesan,2021.0
+79.0,1440,0,3,3.0,0.0,Ambattur,seller,2021.0
+110.0,2009,0,3,3.0,0.0,Other,seller,2021.0
+44.0,1012,1,2,2.0,4.0,Other,seller,2017.0
+82.0,1750,1,3,3.0,0.0,Kolapakkam,seller,2021.0
+70.0,1499,1,3,3.0,11.0,Mogappair,seller,2010.0
+162.0,1500,1,3,3.0,4.0,Other,Other,2017.0
+36.0,900,0,2,3.0,0.0,Veppampattu,viswaraj,2021.0
+24.0,1100,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+26.0,720,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+34.0,1150,0,2,2.0,0.0,Other,viswaraj,2021.0
+26.0,720,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+26.0,720,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+36.0,835,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+50.49,1020,0,3,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+29.7,600,0,1,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+40.34,815,0,2,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+46.03,930,0,2,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+49.5,1000,0,3,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+34.15,690,0,2,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+48.26,975,0,2,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+39.6,800,0,2,2.0,0.0,Pozhichalur,Individual Agent,2021.0
+52.5,960,1,2,2.0,1.0,Sembakkam,Individual Agent,2020.0
+44.0,800,1,2,2.0,1.0,Sembakkam,Individual Agent,2020.0
+32.0,1000,1,2,2.0,3.0,Veppampattu,Other,2018.0
+25.0,640,1,1,2.0,0.0,Thirumazhisai,seller,2021.0
+60.0,782,1,2,2.0,17.0,Mogappair,seller,2004.0
+76.0,1028,1,2,2.0,0.0,Velachery,seller,2021.0
+162.0,1710,1,3,3.0,0.0,Other,seller,2021.0
+26.0,1255,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+17.0,752,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+24.0,1100,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+16.0,681,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+34.0,901,1,2,2.0,2.0,Other,viswaraj,2019.0
+17.0,751,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+34.0,1150,1,2,2.0,2.0,Other,viswaraj,2019.0
+162.0,1541,0,3,3.0,0.0,Other,seller,2021.0
+30.0,1500,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+22.0,1010,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+22.0,1010,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+28.0,800,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+30.0,1500,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+43.0,550,1,2,2.0,0.0,Other,Other,2021.0
+62.0,1295,1,2,2.0,0.0,Siruseri,seller,2021.0
+115.0,1238,1,3,3.0,0.0,Other,seller,2021.0
+140.0,2200,1,6,4.0,0.0,Kolathur,seller,2021.0
+17.0,750,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+17.0,750,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+22.0,1010,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+17.0,751,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+24.0,1250,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+24.0,1250,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+21.5,1020,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+35.0,808,1,2,2.0,0.0,Kovur,viswaraj,2021.0
+22.0,601,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+140.0,2590,1,6,2.0,0.0,Kolathur,seller,2021.0
+35.0,1500,1,1,1.0,0.0,Other,seller,2021.0
+35.0,810,1,2,2.0,0.0,Kovur,viswaraj,2021.0
+16.5,750,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+29.5,1500,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+26.0,1250,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+40.0,652,1,2,2.0,0.0,Other,seller,2021.0
+45.0,1112,1,2,2.0,0.0,Guduvancheri,seller,2021.0
+30.0,690,1,2,2.0,0.0,Chromepet,seller,2021.0
+36.0,902,1,2,2.0,3.0,Veppampattu,Other,2018.0
+40.0,1000,1,2,2.0,3.0,Veppampattu,Other,2018.0
+35.0,850,1,2,2.0,3.0,Veppampattu,Other,2018.0
+36.0,900,1,2,2.0,3.0,Veppampattu,Other,2018.0
+140.0,2200,1,5,3.0,0.0,Chromepet,seller,2021.0
+62.0,1250,1,2,2.0,0.0,tambaram west,Other,2021.0
+19.0,1090,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+34.0,1151,1,2,2.0,2.0,Other,viswaraj,2019.0
+34.0,1151,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+28.0,801,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+30.0,820,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+24.0,1200,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+35.0,810,1,2,2.0,0.0,Kovur,viswaraj,2021.0
+16.5,680,1,1,2.0,3.0,Veppampattu,viswaraj,2018.0
+21.9,600,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+40.0,904,1,2,2.0,8.0,Other,seller,2013.0
+162.0,1400,1,1,2.0,3.0,Other,Other,2018.0
+162.0,3170,1,3,4.0,3.0,Other,Other,2018.0
+150.0,2440,0,4,5.0,0.0,Madipakkam,seller,2021.0
+22.0,600,0,1,2.0,0.0,Veppampattu,viswaraj,2021.0
+70.61,1139,1,2,2.0,1.0,Perungudi,smartassetsindia,2020.0
+52.08,840,1,2,2.0,1.0,Perungudi,smartassetsindia,2020.0
+90.7,1463,1,3,2.0,1.0,Perungudi,smartassetsindia,2020.0
+107.0,1730,1,3,2.0,1.0,Perungudi,smartassetsindia,2020.0
+74.21,1197,1,2,2.0,1.0,Perungudi,smartassetsindia,2020.0
+43.0,799,1,2,2.0,0.0,Rajakilpakkam,seller,2021.0
+16.0,500,1,1,1.0,3.0,Veppampattu,Other,2018.0
+45.0,1200,0,3,2.0,0.0,Veppampattu,Other,2021.0
+34.0,1150,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+29.0,1500,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+37.0,1136,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+27.0,750,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+35.0,808,1,2,2.0,0.0,Kovur,viswaraj,2021.0
+28.0,1375,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+162.0,3300,1,3,6.0,0.0,Other,Other,2021.0
+65.0,1600,1,2,2.0,3.0,Veppampattu,Other,2018.0
+130.0,2020,1,3,2.0,0.0,Other,seller,2021.0
+62.0,950,1,3,2.0,0.0,Other,seller,2021.0
+162.0,1345,1,2,1.0,0.0,Tiruvottiyur,seller,2021.0
+42.0,1330,1,4,2.0,2.0,Urapakkam,seller,2019.0
+26.0,1205,0,2,2.0,0.0,Veppampattu,viswaraj,2021.0
+26.0,720,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+30.0,820,1,2,2.0,3.0,Veppampattu,viswaraj,2018.0
+35.0,808,1,2,2.0,0.0,Kovur,viswaraj,2021.0
+52.51,938,0,2,2.0,0.0,Other,Other,2021.0
+67.07,1198,0,3,2.0,0.0,Other,Other,2021.0
+22.95,600,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+17.9,601,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+24.0,600,1,2,2.0,2.0,Veppampattu,Karthick,2019.0
+18.25,600,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+82.0,1450,1,2,2.0,0.0,Chromepet,seller,2021.0
+39.5,930,1,2,2.0,0.0,Other,seller,2021.0
+18.0,500,0,1,1.0,0.0,Other,seller,2021.0
+39.0,800,0,2,2.0,0.0,Semmancheri,seller,2021.0
+24.0,650,1,2,2.0,4.0,Other,Prasanna,2017.0
+25.0,650,1,2,2.0,4.0,Other,Prasanna,2017.0
+28.0,750,0,2,2.0,0.0,Other,Prasanna,2021.0
+27.5,800,1,2,1.0,4.0,Other,Prasanna,2017.0
+28.5,900,1,1,1.0,4.0,Other,Prasanna,2017.0
+28.0,850,1,1,1.0,4.0,Other,Prasanna,2017.0
+25.5,700,1,1,1.0,4.0,Other,Prasanna,2017.0
+54.0,950,0,2,2.0,0.0,Other,Prasanna,2021.0
+65.0,1100,0,3,2.0,0.0,Thirumullaivoyal,Prasanna,2021.0
+28.5,800,0,2,2.0,0.0,Other,Prasanna,2021.0
+162.0,4200,1,3,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,2961,1,3,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,2958,1,3,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,2960,1,4,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,2957,1,4,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,6500,1,5,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,3000,1,3,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,3899,1,3,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,3135,1,3,3.0,2.0,Royapettah,Vinay Asrani,2019.0
+114.0,600,1,1,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,2959,1,4,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,3874,1,3,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,6498,1,5,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,3800,1,3,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,6617,1,5,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,3139,1,4,2.0,2.0,Royapettah,Vinay Asrani,2019.0
+162.0,2291,1,3,3.0,0.0,Alwarpet,Vinay Asrani,2021.0
+162.0,1989,1,3,3.0,0.0,Alwarpet,Vinay Asrani,2021.0
+162.0,4302,1,4,2.0,0.0,Alwarpet,Vinay Asrani,2021.0
+162.0,4302,1,4,2.0,0.0,Alwarpet,Vinay Asrani,2021.0
+64.0,1238,1,3,2.0,2.0,Perumbakkam,Other,2019.0
+162.0,1515,0,3,2.0,0.0,Other,Vinay Asrani,2021.0
+162.0,2512,0,3,2.0,0.0,Other,Vinay Asrani,2021.0
+162.0,1662,0,3,2.0,0.0,Other,Vinay Asrani,2021.0
+162.0,1760,0,3,2.0,0.0,Other,Vinay Asrani,2021.0
+29.0,500,1,1,1.0,0.0,West Mambalam,seller,2021.0
+90.0,1390,1,3,3.0,6.0,Other,seller,2015.0
+76.5,1150,1,2,2.0,11.0,Other,seller,2010.0
+162.0,1495,1,3,3.0,5.0,Other,24K Realtors,2016.0
+115.0,1008,1,2,2.0,5.0,Other,24K Realtors,2016.0
+150.0,1750,1,3,2.0,2.0,Other,Other,2019.0
+25.9,700,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+22.8,600,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+26.9,704,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+37.0,1300,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+35.0,1180,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+162.0,4725,1,5,7.0,0.0,Madipakkam,seller,2021.0
+29.0,982,0,2,2.0,0.0,Guduvancheri,seller,2021.0
+42.0,738,1,2,2.0,0.0,Other,seller,2021.0
+25.0,820,1,2,1.0,4.0,Other,seller,2017.0
+83.47,1403,0,3,2.0,0.0,Vanagaram,Other,2021.0
+33.85,594,0,1,2.0,0.0,Vanagaram,Other,2021.0
+33.51,588,0,1,1.0,0.0,Vanagaram,Other,2021.0
+84.9,1427,0,3,2.0,0.0,Vanagaram,Other,2021.0
+61.64,1036,0,2,2.0,0.0,Vanagaram,Other,2021.0
+60.33,1014,0,2,2.0,0.0,Vanagaram,Other,2021.0
+83.41,1402,0,3,2.0,0.0,Vanagaram,Other,2021.0
+60.27,1013,0,2,2.0,0.0,Vanagaram,Other,2021.0
+34.02,597,0,1,2.0,0.0,Vanagaram,Other,2021.0
+162.0,3000,1,3,3.0,0.0,Other,seller,2021.0
+110.0,1850,1,3,3.0,0.0,Perumbakkam,smartassetsindia,2021.0
+162.0,2200,1,4,3.0,6.0,Other,smartassetsindia,2015.0
+162.0,2000,1,4,3.0,4.0,Other,smartassetsindia,2017.0
+110.0,1851,1,3,3.0,0.0,Medavakkam,smartassetsindia,2021.0
+110.0,1852,1,3,3.0,0.0,Perumbakkam,smartassetsindia,2021.0
+162.0,2210,1,4,3.0,4.0,Other,smartassetsindia,2017.0
+73.0,1152,1,2,2.0,0.0,Perungudi,smartassetsindia,2021.0
+111.0,1852,1,3,3.0,0.0,Perumbakkam,smartassetsindia,2021.0
+75.0,1152,1,2,2.0,0.0,Perungudi,smartassetsindia,2021.0
+55.0,820,1,2,2.0,0.0,Perungudi,smartassetsindia,2021.0
+115.0,1850,1,3,3.0,0.0,Perumbakkam,smartassetsindia,2021.0
+49.0,1100,1,2,2.0,0.0,Guduvancheri,seller,2021.0
+137.0,1638,0,3,3.0,0.0,Perungudi,24K Realtors,2021.0
+101.0,1188,0,2,2.0,0.0,Perungudi,24K Realtors,2021.0
+51.37,598,0,1,1.0,0.0,Perungudi,24K Realtors,2021.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+70.0,1027,1,2,2.0,3.0,Vadanemmeli,seller,2018.0
+23.25,611,1,1,2.0,3.0,Other,Karthick,2018.0
+39.15,870,1,2,2.0,5.0,Iyyappanthangal,Other,2016.0
+53.0,1022,1,2,2.0,4.0,Other,24K Realtors,2017.0
+162.0,2411,1,4,4.0,1.0,Adyar,24K Realtors,2020.0
+162.0,1987,1,3,3.0,0.0,T Nagar,seller,2021.0
+162.0,1987,1,3,3.0,0.0,T Nagar,seller,2021.0
+71.55,1376,0,3,3.0,0.0,Iyyappanthangal,seller,2021.0
+107.0,1306,1,2,2.0,0.0,Velachery,seller,2021.0
+162.0,1484,1,3,3.0,4.0,T Nagar,seller,2017.0
+42.0,1100,1,2,2.0,0.0,Urapakkam,Other,2021.0
+90.0,1000,1,3,3.0,0.0,Other,Other,2021.0
+162.0,1401,1,3,3.0,0.0,T Nagar,Other,2021.0
+138.0,1380,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+120.0,1200,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+120.0,1200,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+130.0,1308,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+125.0,1250,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+104.0,1044,1,2,2.0,1.0,Perungudi,Kkk Landmark,2020.0
+106.0,1060,1,2,2.0,1.0,Perungudi,Kkk Landmark,2020.0
+106.0,1062,1,2,2.0,1.0,Perungudi,Kkk Landmark,2020.0
+137.0,1370,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+126.0,1264,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+106.0,1065,1,2,2.0,1.0,Perungudi,Kkk Landmark,2020.0
+106.0,1060,1,2,2.0,1.0,Perungudi,Kkk Landmark,2020.0
+137.0,1370,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+130.0,1308,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+130.0,1308,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+120.0,1200,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+104.0,1044,1,2,2.0,1.0,Perungudi,Kkk Landmark,2020.0
+120.0,1200,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+138.0,1380,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+126.0,1264,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+125.0,1250,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+125.0,1250,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+137.0,1370,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+138.0,1380,1,3,3.0,0.0,Perungudi,Kkk Landmark,2021.0
+130.0,1308,1,3,3.0,1.0,Perungudi,Kkk Landmark,2020.0
+49.0,675,1,2,2.0,1.0,Poonamallee,Other,2020.0
+49.0,675,1,2,2.0,1.0,Poonamallee,Other,2020.0
+47.0,509,1,1,1.0,0.0,Other,Prabha Homes,2021.0
+52.9,804,1,2,2.0,0.0,Other,Prabha Homes,2021.0
+82.0,960,1,2,2.0,0.0,Other,Prabha Homes,2021.0
+77.8,890,1,2,2.0,0.0,Other,Prabha Homes,2021.0
+70.0,950,1,2,2.0,0.0,Kolathur,Other,2021.0
+56.0,1000,1,2,2.0,0.0,Other,Other,2021.0
+46.97,854,1,2,2.0,1.0,Other,Other,2020.0
+52.63,957,1,2,2.0,1.0,Other,Other,2020.0
+51.7,940,1,2,2.0,1.0,Other,Other,2020.0
+48.07,874,1,2,2.0,1.0,Other,Other,2020.0
+47.08,856,1,2,2.0,1.0,Other,Other,2020.0
+53.79,978,1,2,2.0,1.0,Other,Other,2020.0
+54.78,996,1,2,2.0,1.0,Other,Other,2020.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+94.5,1350,1,3,3.0,0.0,Kolapakkam,seller,2021.0
+88.0,1482,1,3,3.0,3.0,Vadanemmeli,seller,2018.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+75.0,1200,1,3,2.0,0.0,Perungudi,seller,2021.0
+94.5,1350,1,3,3.0,0.0,Kolapakkam,seller,2021.0
+88.0,1482,1,3,3.0,3.0,Vadanemmeli,seller,2018.0
+150.0,1750,1,2,1.0,3.0,Other,Other,2018.0
+126.0,1700,1,3,2.0,0.0,Kolathur,Other,2021.0
+108.0,1065,1,2,2.0,0.0,Porur,seller,2021.0
+108.0,1065,1,2,2.0,0.0,Porur,seller,2021.0
+40.44,834,0,2,2.0,0.0,Ambattur,seller,2021.0
+36.36,627,1,1,1.0,0.0,Other,Other,2021.0
+55.21,952,1,2,2.0,0.0,Other,Other,2021.0
+64.32,960,1,2,2.0,0.0,Other,Other,2021.0
+59.17,1220,0,2,2.0,0.0,Ambattur,seller,2021.0
+59.17,1220,0,2,2.0,0.0,Ambattur,seller,2021.0
+37.34,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+25.99,703,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+91.58,1409,1,3,2.0,4.0,Kolathur,Selvakumar,2017.0
+63.89,983,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+68.31,1051,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+66.36,1021,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+64.61,994,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+65.65,1010,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+82.22,1265,1,3,2.0,4.0,Kolathur,Selvakumar,2017.0
+69.48,1069,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+62.59,963,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+138.0,1340,0,3,2.0,0.0,Other,Selvakumar,2021.0
+121.0,1175,0,3,2.0,0.0,Other,Selvakumar,2021.0
+141.0,1375,0,3,2.0,0.0,Other,Selvakumar,2021.0
+159.0,1550,0,3,2.0,0.0,Other,Selvakumar,2021.0
+160.0,1555,0,3,2.0,0.0,Other,Selvakumar,2021.0
+157.0,1525,0,3,2.0,0.0,Other,Selvakumar,2021.0
+146.0,1425,0,3,2.0,0.0,Other,Selvakumar,2021.0
+160.0,1560,0,3,2.0,0.0,Other,Selvakumar,2021.0
+95.48,1469,1,3,2.0,4.0,Kolathur,Selvakumar,2017.0
+63.96,984,1,2,2.0,4.0,Kolathur,Selvakumar,2017.0
+38.0,900,1,2,2.0,0.0,Other,Other,2021.0
+66.8,1380,1,3,2.0,1.0,Other,Other,2020.0
+44.5,1030,1,2,2.0,1.0,Other,Other,2020.0
+76.0,1460,1,3,2.0,1.0,Other,Other,2020.0
+103.0,1993,1,3,2.0,1.0,Other,Other,2020.0
+103.0,1993,1,3,2.0,1.0,Other,Other,2020.0
+58.7,997,1,2,2.0,1.0,Other,Other,2020.0
+72.0,1370,1,3,2.0,1.0,Other,Other,2020.0
+56.0,920,1,2,2.0,32.0,Other,seller,1989.0
+162.0,3000,1,4,4.0,0.0,Other,seller,2021.0
+83.0,645,0,2,2.0,0.0,Royapettah,seller,2021.0
+83.0,645,0,2,2.0,0.0,Royapettah,seller,2021.0
+49.34,771,1,2,2.0,1.0,Other,Other,2020.0
+45.37,709,1,2,2.0,1.0,Other,Other,2020.0
+100.0,1343,1,2,1.0,0.0,Other,Other,2021.0
+109.0,900,1,2,2.0,0.0,Alwarpet,Other,2021.0
+49.47,853,1,2,2.0,1.0,Madhavaram,Other,2020.0
+49.01,845,1,2,2.0,1.0,Madhavaram,Other,2020.0
+49.5,947,1,2,2.0,6.0,Other,seller,2015.0
+38.0,625,0,2,1.0,0.0,Guindy,seller,2021.0
+38.0,625,0,2,1.0,0.0,Guindy,seller,2021.0
+38.0,625,0,2,1.0,0.0,Guindy,seller,2021.0
+38.0,625,0,2,1.0,0.0,Guindy,seller,2021.0
+38.0,625,0,2,1.0,0.0,Guindy,seller,2021.0
+38.0,625,0,2,1.0,0.0,Guindy,seller,2021.0
+19.49,520,1,1,2.0,3.0,Veppampattu,seller,2018.0
+108.0,1065,1,2,2.0,0.0,Porur,seller,2021.0
+59.5,700,1,2,2.0,0.0,Other,Other,2021.0
+59.5,700,1,2,2.0,0.0,Other,Other,2021.0
+59.0,759,1,2,2.0,6.0,Other,Other,2015.0
+62.44,905,0,2,2.0,0.0,Nanmangalam,Other,2021.0
+162.0,4200,1,6,6.0,0.0,T Nagar,Other,2021.0
+60.0,1400,1,3,3.0,0.0,Perungalathur,seller,2021.0
+112.0,1800,0,3,3.0,0.0,Ambattur,seller,2021.0
+112.0,1800,0,3,3.0,0.0,Ambattur,seller,2021.0
+112.0,1800,0,3,3.0,0.0,Ambattur,seller,2021.0
+39.0,750,1,2,2.0,3.0,Other,seller,2018.0
+39.0,750,1,2,2.0,3.0,Other,seller,2018.0
+123.0,1650,0,3,3.0,0.0,Chromepet,Other,2021.0
+49.0,600,1,1,1.0,0.0,West Mambalam,Other,2021.0
+78.6,779,0,2,2.0,0.0,Other,Prabha Homes,2021.0
+42.0,520,1,1,1.0,0.0,Other,Prabha Homes,2021.0
+82.0,1000,1,2,2.0,0.0,Other,Prabha Homes,2021.0
+75.6,770,0,2,2.0,0.0,Pallavaram,Prabha Homes,2021.0
+75.0,925,1,2,2.0,0.0,Kolathur,Other,2021.0
+30.5,620,1,2,2.0,0.0,Pammal,SS PROPERTIES,2021.0
+22.0,500,1,1,1.0,0.0,Pammal,SS PROPERTIES,2021.0
+38.78,808,1,2,2.0,0.0,Pammal,SS PROPERTIES,2021.0
+25.68,535,1,1,1.0,0.0,Pammal,SS PROPERTIES,2021.0
+44.78,933,1,3,3.0,0.0,Pammal,SS PROPERTIES,2021.0
+37.35,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+40.44,834,0,2,2.0,0.0,Ambattur,seller,2021.0
+37.0,677,1,2,1.0,0.0,Other,seller,2021.0
+35.0,620,1,1,1.0,0.0,Other,Other,2021.0
+113.0,1668,0,3,2.0,0.0,East Tambaram,Other,2021.0
+79.69,1172,0,2,2.0,0.0,East Tambaram,Other,2021.0
+99.07,1457,0,3,2.0,0.0,East Tambaram,Other,2021.0
+83.09,1222,0,2,2.0,0.0,East Tambaram,Other,2021.0
+105.0,1385,1,3,2.0,0.0,Other,Ram,2021.0
+105.0,1385,1,3,3.0,0.0,Other,Ram,2021.0
+34.5,1170,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+36.0,1300,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+32.5,990,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+25.0,620,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+26.5,680,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+29.5,850,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+22.5,600,1,1,2.0,3.0,Veppampattu,JD Properties,2018.0
+22.5,630,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+16.5,550,1,1,2.0,3.0,Veppampattu,JD Properties,2018.0
+99.9,1350,1,3,3.0,0.0,Kolapakkam,seller,2021.0
+162.0,2650,1,5,5.0,0.0,West Mambalam,seller,2021.0
+30.0,780,1,2,2.0,0.0,Other,seller,2021.0
+107.0,1350,1,3,2.0,0.0,Kolapakkam,seller,2021.0
+63.62,823,0,2,2.0,0.0,Other,seller,2021.0
+63.62,823,0,2,2.0,0.0,Other,seller,2021.0
+64.9,823,0,2,2.0,0.0,Other,seller,2021.0
+41.52,865,0,2,2.0,0.0,Perumbakkam,Other,2021.0
+51.06,740,0,2,2.0,0.0,Madipakkam,Other,2021.0
+79.0,894,1,2,2.0,0.0,Other,Other,2021.0
+49.77,905,0,2,2.0,0.0,Other,Other,2021.0
+108.0,1065,1,2,2.0,0.0,Porur,seller,2021.0
+42.19,870,0,2,2.0,0.0,Ambattur,seller,2021.0
+37.34,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+49.77,905,0,2,2.0,0.0,Other,Other,2021.0
+67.65,1230,0,3,2.0,0.0,Other,Other,2021.0
+41.12,848,0,2,2.0,0.0,Ambattur,seller,2021.0
+52.0,780,1,2,2.0,0.0,Other,Prabha Homes,2021.0
+162.0,4800,1,4,3.0,0.0,Sholinganallur,Propsource Realty Private Limited,2021.0
+26.0,800,1,2,2.0,3.0,Other,Propsource Realty Private Limited,2018.0
+20.0,600,1,2,2.0,3.0,Other,Propsource Realty Private Limited,2018.0
+16.71,490,1,1,1.0,3.0,Other,Propsource Realty Private Limited,2018.0
+87.27,1247,0,2,2.0,0.0,Perungudi,Propsource Realty Private Limited,2021.0
+45.0,970,1,2,2.0,0.0,Other,Propsource Realty Private Limited,2021.0
+71.51,1069,0,2,2.0,0.0,Mogappair,Propsource Realty Private Limited,2021.0
+162.0,1500,1,3,3.0,2.0,Anna Nagar,Propsource Realty Private Limited,2019.0
+57.79,1051,0,2,2.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+80.37,1786,1,3,2.0,1.0,Medavakkam,Propsource Realty Private Limited,2020.0
+52.38,1376,1,2,2.0,1.0,Medavakkam,Propsource Realty Private Limited,2020.0
+46.0,914,1,2,2.0,0.0,Kovur,Propsource Realty Private Limited,2021.0
+73.0,1400,0,3,3.0,0.0,Kovur,Propsource Realty Private Limited,2021.0
+72.0,1500,1,3,3.0,5.0,Poonamallee,Propsource Realty Private Limited,2016.0
+34.0,600,0,2,2.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+57.74,1013,0,2,2.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+54.64,1051,0,2,2.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+120.0,1723,0,3,3.0,0.0,Perungudi,Propsource Realty Private Limited,2021.0
+125.0,1765,1,3,3.0,0.0,Navallur,Propsource Realty Private Limited,2021.0
+99.9,1350,0,3,3.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+81.4,1122,0,2,2.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+162.0,2000,0,3,3.0,0.0,Guindy,Propsource Realty Private Limited,2021.0
+35.0,620,1,1,1.0,0.0,Other,Propsource Realty Private Limited,2021.0
+77.0,1400,1,3,3.0,0.0,Perungalathur,Propsource Realty Private Limited,2021.0
+65.0,1478,1,3,3.0,0.0,Medavakkam,Propsource Realty Private Limited,2021.0
+79.8,1400,0,3,3.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+77.51,1491,0,3,3.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+34.0,748,1,2,2.0,0.0,Medavakkam,Propsource Realty Private Limited,2021.0
+65.0,1250,1,3,3.0,0.0,Perungalathur,Propsource Realty Private Limited,2021.0
+39.0,999,1,2,2.0,4.0,Other,Propsource Realty Private Limited,2017.0
+19.36,605,0,1,1.0,0.0,Guduvancheri,Propsource Realty Private Limited,2021.0
+162.0,1666,1,2,3.0,0.0,T Nagar,Propsource Realty Private Limited,2021.0
+80.0,1700,1,3,3.0,5.0,Poonamallee,Propsource Realty Private Limited,2016.0
+125.0,1765,1,3,3.0,0.0,Navallur,Propsource Realty Private Limited,2021.0
+99.9,1350,0,3,3.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+81.4,1122,0,2,2.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+118.0,1600,0,3,3.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+162.0,2000,0,3,3.0,0.0,Guindy,Propsource Realty Private Limited,2021.0
+35.0,620,1,1,1.0,0.0,Other,Propsource Realty Private Limited,2021.0
+45.86,1079,0,2,2.0,0.0,Other,Propsource Realty Private Limited,2021.0
+57.4,1552,0,2,2.0,0.0,Thaiyur,Propsource Realty Private Limited,2021.0
+60.0,1550,1,2,2.0,0.0,Perungalathur,Propsource Realty Private Limited,2021.0
+53.97,1285,1,2,2.0,6.0,Urapakkam,Propsource Realty Private Limited,2015.0
+162.0,2601,0,3,3.0,0.0,T Nagar,Propsource Realty Private Limited,2021.0
+64.6,1700,0,3,3.0,0.0,Thaiyur,Propsource Realty Private Limited,2021.0
+60.87,1068,0,2,2.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+41.58,990,1,1,2.0,6.0,Urapakkam,Propsource Realty Private Limited,2015.0
+72.63,1243,1,1,2.0,0.0,Other,Propsource Realty Private Limited,2021.0
+40.0,885,0,1,2.0,0.0,Kolapakkam,Propsource Realty Private Limited,2021.0
+36.0,800,0,1,2.0,0.0,Other,Propsource Realty Private Limited,2021.0
+34.0,956,1,1,2.0,0.0,Guduvancheri,Propsource Realty Private Limited,2021.0
+58.38,965,0,1,2.0,0.0,Madipakkam,Propsource Realty Private Limited,2021.0
+109.0,1708,0,3,3.0,0.0,Sholinganallur,Propsource Realty Private Limited,2021.0
+54.64,1051,0,2,2.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+70.65,1359,0,3,2.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+125.0,1765,1,3,3.0,0.0,Navallur,Propsource Realty Private Limited,2021.0
+74.47,1655,1,3,3.0,4.0,Siruseri,Propsource Realty Private Limited,2017.0
+82.86,1247,0,2,2.0,0.0,Perungudi,Propsource Realty Private Limited,2021.0
+85.45,1554,0,3,3.0,0.0,Vanagaram,Propsource Realty Private Limited,2021.0
+81.4,1122,0,2,2.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+118.0,1600,0,3,3.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+35.0,620,1,1,1.0,0.0,Other,Propsource Realty Private Limited,2021.0
+45.86,1079,0,2,2.0,0.0,Other,Propsource Realty Private Limited,2021.0
+77.0,1400,1,3,3.0,0.0,Perungalathur,Propsource Realty Private Limited,2021.0
+57.4,1552,0,2,2.0,0.0,Thaiyur,Propsource Realty Private Limited,2021.0
+60.0,1550,1,2,2.0,0.0,Perungalathur,Propsource Realty Private Limited,2021.0
+53.97,1285,1,2,2.0,6.0,Urapakkam,Propsource Realty Private Limited,2015.0
+162.0,2601,0,3,3.0,0.0,T Nagar,Propsource Realty Private Limited,2021.0
+64.6,1700,0,3,3.0,0.0,Thaiyur,Propsource Realty Private Limited,2021.0
+60.87,1068,0,2,2.0,0.0,Pallavaram,Propsource Realty Private Limited,2021.0
+26.8,620,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+25.7,620,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+25.99,620,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+26.0,620,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+22.75,600,1,1,2.0,3.0,Veppampattu,JD Properties,2018.0
+22.85,600,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+17.84,600,1,1,1.0,3.0,Veppampattu,JD Properties,2018.0
+37.0,1300,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1250,0,2,2.0,0.0,Other,seller,2021.0
+22.49,610,1,2,2.0,0.0,Other,seller,2021.0
+39.5,820,1,2,2.0,0.0,Madhavaram,seller,2021.0
+85.0,1071,1,2,2.0,5.0,Porur,seller,2016.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+162.0,1765,0,3,3.0,0.0,Other,seller,2021.0
+162.0,4500,1,8,6.0,0.0,Royapettah,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+34.0,675,1,2,2.0,3.0,Other,seller,2018.0
+22.49,610,1,2,2.0,0.0,Other,seller,2021.0
+28.0,800,1,2,2.0,3.0,Veppampattu,seller,2018.0
+162.0,3485,1,5,5.0,4.0,Other,seller,2017.0
+50.0,1000,0,2,2.0,0.0,Medavakkam,seller,2021.0
+49.5,1000,1,2,2.0,0.0,Other,seller,2021.0
+27.0,720,1,2,2.0,3.0,Veppampattu,seller,2018.0
+121.0,1250,1,2,2.0,0.0,West Mambalam,seller,2021.0
+45.0,1000,0,2,2.0,0.0,Madambakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+160.0,1463,1,3,4.0,0.0,Porur,seller,2021.0
+25.0,582,1,2,2.0,2.0,Ambattur,seller,2019.0
+162.0,2400,1,3,3.0,6.0,Other,seller,2015.0
+28.0,800,1,2,2.0,3.0,Veppampattu,seller,2018.0
+162.0,5100,0,5,5.0,0.0,Other,seller,2021.0
+49.0,1200,1,2,2.0,0.0,Guduvancheri,seller,2021.0
+162.0,2622,1,3,2.0,0.0,Perungalathur,seller,2021.0
+30.0,950,1,2,2.0,1.0,Other,seller,2020.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+106.0,1350,1,3,3.0,0.0,West Mambalam,seller,2021.0
+55.83,859,1,2,2.0,0.0,Velachery,seller,2021.0
+22.0,420,1,1,2.0,3.0,Other,seller,2018.0
+48.5,1450,0,2,2.0,0.0,Other,seller,2021.0
+39.5,820,1,2,2.0,0.0,Madhavaram,seller,2021.0
+85.0,1071,1,2,2.0,5.0,Porur,seller,2016.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+162.0,4500,1,8,6.0,0.0,Royapettah,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+162.0,1590,1,3,3.0,4.0,Anna Nagar,seller,2017.0
+68.5,1080,1,2,3.0,0.0,Kolathur,seller,2021.0
+34.0,675,1,2,2.0,3.0,Other,seller,2018.0
+34.0,675,1,2,2.0,3.0,Other,seller,2018.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+55.0,1200,1,2,2.0,0.0,Medavakkam,seller,2021.0
+44.75,1250,1,2,3.0,3.0,Other,seller,2018.0
+59.0,900,1,3,2.0,0.0,Other,seller,2021.0
+49.0,919,1,2,2.0,0.0,Sholinganallur,seller,2021.0
+25.0,619,1,2,1.0,4.0,Pozhichalur,seller,2017.0
+42.5,818,0,2,2.0,0.0,Other,seller,2021.0
+42.5,818,0,2,2.0,0.0,Other,seller,2021.0
+48.5,818,0,2,2.0,0.0,Other,seller,2021.0
+57.5,922,1,2,2.0,5.0,Other,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+162.0,5100,0,5,5.0,0.0,Other,seller,2021.0
+55.83,859,1,2,2.0,0.0,Velachery,seller,2021.0
+125.0,2350,1,4,4.0,5.0,Iyyappanthangal,seller,2016.0
+125.0,2350,1,4,4.0,5.0,Iyyappanthangal,seller,2016.0
+110.0,2350,1,4,4.0,5.0,Iyyappanthangal,seller,2016.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+25.0,619,1,2,1.0,4.0,Pozhichalur,seller,2017.0
+125.0,2350,1,4,4.0,5.0,Iyyappanthangal,seller,2016.0
+125.0,2350,1,4,4.0,5.0,Iyyappanthangal,seller,2016.0
+110.0,2350,1,4,4.0,5.0,Iyyappanthangal,seller,2016.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+42.18,868,1,2,2.0,0.0,Pammal,seller,2021.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+53.0,942,1,2,2.0,5.0,Iyyappanthangal,seller,2016.0
+27.5,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+28.0,586,1,1,1.0,0.0,Sembakkam,seller,2021.0
+162.0,2400,1,3,3.0,6.0,Other,seller,2015.0
+35.0,953,0,2,2.0,0.0,Other,seller,2021.0
+162.0,4000,1,4,4.0,0.0,Other,seller,2021.0
+162.0,4000,1,4,3.0,0.0,Adyar,seller,2021.0
+26.2,655,1,1,2.0,0.0,Madambakkam,seller,2021.0
+35.0,700,1,2,2.0,4.0,Other,seller,2017.0
+110.0,1405,1,3,2.0,0.0,Adyar,seller,2021.0
+25.0,650,1,2,2.0,4.0,Other,seller,2017.0
+25.0,650,1,2,2.0,4.0,Other,seller,2017.0
+25.0,650,1,2,2.0,4.0,Other,seller,2017.0
+60.0,1386,1,3,3.0,0.0,Other,seller,2021.0
+162.0,5100,0,5,5.0,0.0,Other,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+35.0,750,1,2,1.0,0.0,Medavakkam,seller,2021.0
+36.0,809,1,2,2.0,0.0,Sembakkam,seller,2021.0
+30.0,905,1,2,2.0,4.0,Other,seller,2017.0
+39.5,809,1,2,2.0,0.0,Sembakkam,seller,2021.0
+39.5,809,1,2,2.0,0.0,Sembakkam,seller,2021.0
+39.5,809,1,2,2.0,0.0,Sembakkam,seller,2021.0
+39.5,809,1,2,2.0,0.0,Sembakkam,seller,2021.0
+39.5,809,1,2,2.0,0.0,Sembakkam,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+42.8,855,1,2,2.0,0.0,Pammal,seller,2021.0
+62.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+58.0,1030,1,3,2.0,0.0,Perungalathur,seller,2021.0
+87.0,1015,0,2,2.0,0.0,Other,seller,2021.0
+85.0,1200,1,2,2.0,0.0,tambaram west,seller,2021.0
+71.0,1100,0,3,3.0,0.0,Kolathur,seller,2021.0
+162.0,1344,1,2,2.0,0.0,Other,seller,2021.0
+162.0,1344,1,2,2.0,0.0,Other,seller,2021.0
+49.0,1200,1,2,2.0,0.0,Guduvancheri,seller,2021.0
+106.0,1350,1,3,3.0,0.0,West Mambalam,seller,2021.0
+33.0,580,1,2,2.0,4.0,Perungalathur,seller,2017.0
+45.0,1024,1,3,2.0,0.0,Thirumullaivoyal,seller,2021.0
+37.5,845,1,2,2.0,0.0,Kundrathur,seller,2021.0
+47.0,1505,1,3,3.0,5.0,Other,seller,2016.0
+162.0,2315,0,3,3.0,0.0,Alwarpet,seller,2021.0
+72.0,1100,0,3,3.0,0.0,Kolathur,seller,2021.0
+34.99,1175,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+21.99,600,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+22.0,600,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+29.0,800,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+32.0,1000,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+39.75,885,0,2,2.0,0.0,Perumbakkam,HomeFirst,2021.0
+65.8,1535,0,3,3.0,0.0,Perumbakkam,HomeFirst,2021.0
+41.0,1250,1,1,2.0,0.0,Kelambakkam,Elite nisha,2021.0
+33.0,1020,1,2,3.0,0.0,Semmancheri,Elite nisha,2021.0
+48.0,1270,1,2,1.0,0.0,Kelambakkam,Elite nisha,2021.0
+49.0,1110,1,2,2.0,0.0,Navallur,Elite nisha,2021.0
+47.0,1060,1,2,2.0,0.0,Semmancheri,Elite nisha,2021.0
+43.0,1350,1,2,2.0,0.0,Kelambakkam,Elite nisha,2021.0
+162.0,3850,1,5,5.0,5.0,Other,Other,2016.0
+145.0,1000,1,2,1.0,3.0,Other,Other,2018.0
+120.0,2400,1,4,4.0,0.0,Kolathur,Other,2021.0
+73.56,1206,0,3,2.0,0.0,Pammal,Other,2021.0
+78.75,1291,0,3,2.0,0.0,Pammal,Other,2021.0
+74.96,1229,0,3,2.0,0.0,Pammal,Other,2021.0
+56.1,1020,0,3,2.0,0.0,Sembakkam,Individual Agent,2021.0
+60.5,1100,0,3,2.0,0.0,Sembakkam,Individual Agent,2021.0
+58.0,900,0,2,2.0,0.0,Poonamallee,Other,2021.0
+55.0,850,0,2,2.0,0.0,Poonamallee,Other,2021.0
+48.0,750,0,2,2.0,0.0,Poonamallee,Other,2021.0
+162.0,2452,1,3,3.0,0.0,Other,HomeFirst,2021.0
+23.0,500,1,1,1.0,0.0,Nanmangalam,MC Foundation,2021.0
+62.08,1194,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+48.41,931,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+47.08,961,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+39.4,788,1,2,2.0,0.0,Perumbakkam,MC Foundation,2021.0
+38.61,788,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+45.08,980,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+38.36,834,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+36.57,795,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+64.78,1117,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+78.0,1300,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+54.06,983,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+47.35,861,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+58.26,971,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+81.2,1400,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+69.35,1261,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+49.0,1000,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+43.51,888,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+69.35,1261,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+56.04,1019,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+58.26,971,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+81.2,1400,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+78.0,1300,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+54.06,983,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+47.35,861,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+31.2,600,1,1,1.0,0.0,Medavakkam,MC Foundation,2021.0
+74.87,1291,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+68.88,1148,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+53.76,896,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+56.88,1094,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+51.94,999,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+52.2,900,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+72.71,1322,1,3,3.0,0.0,Medavakkam,MC Foundation,2021.0
+64.78,1117,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+41.11,839,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+43.68,840,1,2,2.0,0.0,Medavakkam,MC Foundation,2021.0
+54.05,932,1,2,2.0,0.0,Other,MC Foundation,2021.0
+53.41,1187,1,3,3.0,0.0,Sithalapakkam,MC Foundation,2021.0
+54.55,1091,1,3,3.0,0.0,Perumbakkam,MC Foundation,2021.0
+48.85,977,1,2,2.0,0.0,Perumbakkam,MC Foundation,2021.0
+51.96,896,1,2,2.0,0.0,Other,MC Foundation,2021.0
+53.39,1139,1,3,3.0,0.0,Nanmangalam,MC Foundation,2021.0
+70.6,1400,1,3,3.0,0.0,Perumbakkam,MC Foundation,2021.0
+43.15,863,1,2,2.0,0.0,Perumbakkam,MC Foundation,2021.0
+58.8,1200,1,3,3.0,0.0,Nanmangalam,MC Foundation,2021.0
+49.0,1000,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+43.51,888,1,2,2.0,0.0,Nanmangalam,MC Foundation,2021.0
+45.99,1022,1,3,3.0,0.0,Sithalapakkam,MC Foundation,2021.0
+41.58,924,1,2,2.0,0.0,Sithalapakkam,MC Foundation,2021.0
+58.45,759,1,2,2.0,6.0,Other,Other,2015.0
+29.0,650,1,1,1.0,3.0,Other,Propsource Realty Private Limited,2018.0
+39.88,1050,1,2,2.0,0.0,Thaiyur,Propsource Realty Private Limited,2021.0
+89.0,950,1,2,2.0,0.0,T Nagar,Other,2021.0
+69.47,965,0,2,2.0,0.0,Porur,ARB HOMES,2021.0
+66.44,923,0,2,2.0,0.0,Porur,ARB HOMES,2021.0
+92.65,1287,0,3,2.0,0.0,Porur,ARB HOMES,2021.0
+78.1,1085,0,3,3.0,0.0,Porur,ARB HOMES,2021.0
+73.93,1027,0,2,2.0,0.0,Porur,ARB HOMES,2021.0
+69.9,971,0,2,2.0,0.0,Porur,ARB HOMES,2021.0
+69.54,966,0,2,2.0,0.0,Porur,ARB HOMES,2021.0
+85.0,1712,1,3,3.0,0.0,Medavakkam,Other,2021.0
+162.0,6700,1,4,4.0,0.0,Other,HomeFirst,2021.0
+162.0,3700,1,3,3.0,0.0,Other,HomeFirst,2021.0
+162.0,1850,1,3,3.0,4.0,Other,Other,2017.0
+51.32,1283,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+45.04,1126,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+45.04,1126,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+29.72,743,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+53.85,1122,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+43.48,906,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+40.27,839,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+79.69,1172,1,2,2.0,0.0,tambaram west,MC Foundation,2021.0
+75.0,1655,1,3,3.0,1.0,Other,MC Foundation,2020.0
+100.0,2100,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+70.0,1600,1,3,3.0,1.0,Other,MC Foundation,2020.0
+100.0,2100,1,3,3.0,0.0,Other,MC Foundation,2021.0
+95.0,2000,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+90.0,1900,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+95.0,2000,1,3,3.0,0.0,Other,MC Foundation,2021.0
+85.0,1800,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+90.0,1900,1,3,3.0,0.0,Other,MC Foundation,2021.0
+85.0,1800,1,3,3.0,0.0,Other,MC Foundation,2021.0
+80.0,1700,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+80.0,1700,1,3,3.0,0.0,Other,MC Foundation,2021.0
+75.0,1655,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+75.0,1655,1,3,3.0,0.0,Other,MC Foundation,2021.0
+90.0,1667,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+70.0,1600,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+70.0,1600,1,3,3.0,0.0,Other,MC Foundation,2021.0
+120.0,2000,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+100.0,2100,1,3,3.0,1.0,Other,MC Foundation,2020.0
+100.0,1821,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+100.0,2100,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+95.0,2000,1,3,3.0,1.0,Other,MC Foundation,2020.0
+95.0,1783,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+95.0,2000,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+85.0,1583,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+90.0,1900,1,3,3.0,1.0,Other,MC Foundation,2020.0
+90.0,1624,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+90.0,1900,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+85.0,1800,1,3,3.0,1.0,Other,MC Foundation,2020.0
+125.0,1800,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+100.0,1874,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+85.0,1800,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+80.0,1700,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+80.0,1700,1,3,3.0,1.0,Other,MC Foundation,2020.0
+95.0,1700,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+75.0,1655,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+94.0,1793,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+100.0,2000,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+90.0,1674,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+95.0,1800,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+90.0,1740,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+84.0,1600,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+85.0,1664,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+100.0,2000,1,3,3.0,0.0,tambaram west,MC Foundation,2021.0
+95.0,1800,1,3,3.0,0.0,tambaram west,MC Foundation,2021.0
+110.0,2000,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+100.0,1839,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+90.0,1700,1,3,3.0,0.0,tambaram west,MC Foundation,2021.0
+95.0,1741,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+85.0,1621,1,3,3.0,0.0,tambaram west,MC Foundation,2021.0
+130.0,1385,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+74.0,1300,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+69.0,1200,1,2,2.0,0.0,Madambakkam,MC Foundation,2021.0
+130.0,1961,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+70.0,1600,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+140.0,2200,0,4,4.0,0.0,Sembakkam,MC Foundation,2021.0
+95.0,1900,1,3,3.0,0.0,Perumbakkam,MC Foundation,2021.0
+85.0,1800,1,3,3.0,0.0,Perumbakkam,MC Foundation,2021.0
+120.0,1321,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+90.0,1800,1,4,4.0,0.0,Madambakkam,MC Foundation,2021.0
+120.0,1400,1,3,3.0,0.0,Other,MC Foundation,2021.0
+85.0,1683,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+80.0,1561,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+77.0,1483,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+110.0,1943,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+110.0,1300,1,3,3.0,0.0,Other,MC Foundation,2021.0
+95.0,1783,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+60.02,1225,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+53.6,1094,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+44.59,910,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+40.18,820,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+24.47,505,1,1,1.0,0.0,Chromepet,MC Foundation,2021.0
+108.0,1065,1,2,2.0,1.0,Other,seller,2020.0
+37.34,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+57.12,1190,0,3,3.0,0.0,Nanmangalam,Other,2021.0
+64.0,1254,1,2,2.0,0.0,Medavakkam,Other,2021.0
+23.0,594,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+26.5,630,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+34.99,1201,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+28.99,751,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+26.99,701,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+29.99,847,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+22.99,609,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+32.0,800,1,2,2.0,0.0,Other,Elite nisha,2021.0
+48.0,1200,1,2,2.0,0.0,Other,Elite nisha,2021.0
+46.0,1000,0,2,2.0,0.0,Other,Elite nisha,2021.0
+53.0,1000,1,2,3.0,0.0,Other,Elite nisha,2021.0
+57.0,1500,1,2,3.0,3.0,Other,Elite nisha,2018.0
+33.0,1200,1,2,2.0,0.0,Siruseri,Elite nisha,2021.0
+36.0,900,1,1,2.0,3.0,Other,Elite nisha,2018.0
+58.0,1400,1,3,3.0,0.0,Kelambakkam,Elite nisha,2021.0
+57.0,1250,1,2,2.0,0.0,Kelambakkam,Elite nisha,2021.0
+53.0,1550,1,2,2.0,0.0,Kelambakkam,Elite nisha,2021.0
+52.0,1350,1,2,2.0,0.0,Kelambakkam,Elite nisha,2021.0
+46.0,1200,1,1,2.0,0.0,Semmancheri,Elite nisha,2021.0
+36.0,1000,1,2,2.0,0.0,Semmancheri,Elite nisha,2021.0
+54.0,1050,1,2,2.0,3.0,Other,Elite nisha,2018.0
+50.0,1080,1,2,3.0,4.0,Other,Elite nisha,2017.0
+58.0,1250,1,2,3.0,4.0,Other,Elite nisha,2017.0
+48.0,1160,1,2,3.0,3.0,Other,Elite nisha,2018.0
+47.0,1470,1,2,3.0,0.0,Semmancheri,Elite nisha,2021.0
+53.0,1060,1,2,3.0,3.0,Other,Elite nisha,2018.0
+48.0,1126,1,1,2.0,3.0,Other,Elite nisha,2018.0
+78.0,954,1,2,2.0,0.0,Other,Prabha Homes,2021.0
+53.0,804,1,2,2.0,0.0,Other,Prabha Homes,2021.0
+42.0,509,1,1,1.0,0.0,Other,Prabha Homes,2021.0
+48.87,905,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+46.54,862,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+41.52,769,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+69.6,1200,1,3,3.0,0.0,Perungalathur,MC Foundation,2021.0
+60.32,1040,1,2,2.0,0.0,Perungalathur,MC Foundation,2021.0
+54.17,934,1,2,2.0,0.0,Perungalathur,MC Foundation,2021.0
+51.56,889,1,2,2.0,0.0,Perungalathur,MC Foundation,2021.0
+66.08,1180,1,3,3.0,0.0,tambaram west,MC Foundation,2021.0
+57.12,1020,1,2,2.0,0.0,tambaram west,MC Foundation,2021.0
+52.08,930,1,2,2.0,0.0,tambaram west,MC Foundation,2021.0
+73.37,1249,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+69.26,1179,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+57.75,983,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+47.94,861,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+81.43,1404,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+72.96,1258,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+59.15,1183,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+57.76,996,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+47.15,943,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+52.2,900,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+76.5,1275,1,3,3.0,0.0,Other,MC Foundation,2021.0
+43.05,861,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+69.96,1166,1,3,3.0,0.0,Other,MC Foundation,2021.0
+25.0,500,1,1,1.0,0.0,Chromepet,MC Foundation,2021.0
+60.0,1000,1,2,2.0,0.0,Other,MC Foundation,2021.0
+113.0,1668,1,3,3.0,0.0,tambaram west,MC Foundation,2021.0
+99.07,1457,1,3,3.0,0.0,tambaram west,MC Foundation,2021.0
+83.09,1222,1,2,2.0,0.0,tambaram west,MC Foundation,2021.0
+42.0,700,1,1,1.0,0.0,Other,MC Foundation,2021.0
+49.74,829,1,2,2.0,0.0,Other,MC Foundation,2021.0
+78.0,1300,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+68.58,1143,1,3,3.0,0.0,Chromepet,MC Foundation,2021.0
+58.14,969,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+47.1,785,1,2,2.0,0.0,Chromepet,MC Foundation,2021.0
+39.26,818,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+73.6,1269,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+69.07,1191,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+62.06,1070,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+57.71,995,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+55.85,963,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+51.85,894,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+47.56,820,1,2,2.0,0.0,Selaiyur,MC Foundation,2021.0
+78.4,1400,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+72.8,1300,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+66.58,1189,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+57.34,1024,1,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+53.98,964,1,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+46.25,826,1,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+43.96,785,1,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+85.62,1427,1,3,3.0,9.0,Medavakkam,MC Foundation,2012.0
+79.02,1317,1,3,3.0,9.0,Medavakkam,MC Foundation,2012.0
+75.24,1254,1,3,3.0,9.0,Medavakkam,MC Foundation,2012.0
+66.96,1116,1,3,3.0,9.0,Medavakkam,MC Foundation,2012.0
+60.0,1000,1,2,2.0,9.0,Medavakkam,MC Foundation,2012.0
+54.3,905,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+53.16,886,1,2,2.0,9.0,Medavakkam,MC Foundation,2012.0
+50.1,835,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+45.06,751,1,2,2.0,9.0,Medavakkam,MC Foundation,2012.0
+124.0,1537,1,3,2.0,3.0,Other,Luxclusive Homes,2018.0
+117.0,1455,1,3,3.0,3.0,Other,Luxclusive Homes,2018.0
+123.0,1530,1,3,3.0,3.0,Other,Luxclusive Homes,2018.0
+58.32,1215,0,3,3.0,0.0,Nanmangalam,Other,2021.0
+45.6,950,0,2,2.0,0.0,Nanmangalam,Other,2021.0
+40.32,840,0,2,2.0,0.0,Nanmangalam,Other,2021.0
+37.68,785,0,2,2.0,0.0,Nanmangalam,Other,2021.0
+33.6,700,0,2,2.0,0.0,Nanmangalam,Other,2021.0
+71.91,1383,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+60.63,1166,1,3,3.0,0.0,Sembakkam,MC Foundation,2021.0
+51.01,981,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+48.41,931,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+44.25,851,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+41.6,800,1,2,2.0,0.0,Sembakkam,MC Foundation,2021.0
+63.45,1269,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+59.2,1184,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+55.0,1100,1,3,3.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+48.2,964,1,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+45.0,900,1,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+50.4,900,1,2,2.0,0.0,tambaram west,MC Foundation,2021.0
+48.0,1200,1,3,3.0,0.0,Urapakkam,MC Foundation,2021.0
+37.72,943,1,2,2.0,0.0,Urapakkam,MC Foundation,2021.0
+35.24,881,1,2,2.0,0.0,Urapakkam,MC Foundation,2021.0
+40.6,812,1,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+91.2,1900,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+78.28,1631,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+71.42,1488,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+67.15,1399,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+48.81,1017,1,2,2.0,0.0,Madambakkam,MC Foundation,2021.0
+47.52,990,1,2,2.0,0.0,Madambakkam,MC Foundation,2021.0
+65.61,1238,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+61.85,1167,1,3,3.0,0.0,Madambakkam,MC Foundation,2021.0
+48.81,921,1,2,2.0,0.0,Madambakkam,MC Foundation,2021.0
+46.64,880,1,2,2.0,0.0,Madambakkam,MC Foundation,2021.0
+59.83,1108,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+58.96,1092,1,3,3.0,0.0,Selaiyur,MC Foundation,2021.0
+28.35,525,1,1,1.0,0.0,Selaiyur,MC Foundation,2021.0
+30.0,850,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+26.9,700,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+27.0,700,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+25.8,700,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+26.0,700,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+23.0,600,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+114.0,1342,0,3,2.0,0.0,Madipakkam,Other,2021.0
+72.33,851,0,2,2.0,0.0,Madipakkam,Other,2021.0
+126.0,1489,0,3,2.0,0.0,Madipakkam,Other,2021.0
+83.04,977,0,2,2.0,0.0,Madipakkam,Other,2021.0
+80.15,943,0,2,2.0,0.0,Madipakkam,Other,2021.0
+33.63,885,1,2,2.0,2.0,Kundrathur,Other,2019.0
+35.41,932,1,2,2.0,2.0,Kundrathur,Other,2019.0
+33.47,881,1,2,2.0,2.0,Kundrathur,Other,2019.0
+27.17,715,1,2,2.0,2.0,Kundrathur,Other,2019.0
+51.06,690,1,2,2.0,6.0,Other,MC Foundation,2015.0
+132.0,1266,1,3,3.0,0.0,Other,MC Foundation,2021.0
+102.0,980,1,2,2.0,0.0,Other,MC Foundation,2021.0
+91.2,1200,1,3,3.0,6.0,Other,MC Foundation,2015.0
+55.5,750,1,2,2.0,6.0,Other,MC Foundation,2015.0
+88.1,881,1,2,2.0,0.0,Other,MC Foundation,2021.0
+87.0,870,1,2,2.0,0.0,Other,MC Foundation,2021.0
+85.5,900,1,2,2.0,0.0,Koyambedu,MC Foundation,2021.0
+81.7,860,1,2,2.0,0.0,Koyambedu,MC Foundation,2021.0
+39.0,937,0,2,2.0,0.0,Selaiyur,ARB HOMES,2021.0
+99.0,1560,1,3,3.0,0.0,Medavakkam,ARB HOMES,2021.0
+162.0,4724,1,4,2.0,0.0,Sholinganallur,ARB HOMES,2021.0
+46.0,1006,1,2,2.0,4.0,Other,ARB HOMES,2017.0
+46.12,1006,1,2,2.0,4.0,Other,ARB HOMES,2017.0
+37.0,574,1,1,1.0,2.0,Gowrivakkam,ARB HOMES,2019.0
+80.0,1527,1,3,2.0,1.0,Ambattur,ARB HOMES,2020.0
+65.0,1002,1,2,2.0,2.0,Gowrivakkam,ARB HOMES,2019.0
+80.0,1753,1,3,2.0,1.0,Medavakkam,ARB HOMES,2020.0
+60.0,1340,1,2,2.0,1.0,Medavakkam,ARB HOMES,2020.0
+53.0,974,0,2,2.0,0.0,Perungalathur,ARB HOMES,2021.0
+30.0,612,0,2,2.0,0.0,Other,ARB HOMES,2021.0
+66.0,1366,0,3,2.0,0.0,Perungalathur,ARB HOMES,2021.0
+47.0,1073,0,2,2.0,0.0,Other,ARB HOMES,2021.0
+95.0,1371,1,3,2.0,2.0,Vengaivasal,ARB HOMES,2019.0
+42.0,591,1,2,1.0,2.0,Vengaivasal,ARB HOMES,2019.0
+80.0,1237,0,2,2.0,0.0,Sholinganallur,ARB HOMES,2021.0
+28.0,730,0,2,2.0,0.0,Thirumazhisai,ARB HOMES,2021.0
+32.0,849,0,2,2.0,0.0,Thirumazhisai,ARB HOMES,2021.0
+55.0,1286,0,3,2.0,0.0,Selaiyur,ARB HOMES,2021.0
+33.0,885,0,3,3.0,0.0,Thirumazhisai,ARB HOMES,2021.0
+70.0,1148,1,2,2.0,2.0,Kolapakkam,ARB HOMES,2019.0
+68.0,1024,1,2,2.0,3.0,Karapakkam,ARB HOMES,2018.0
+162.0,2616,1,4,3.0,3.0,Karapakkam,ARB HOMES,2018.0
+42.0,979,0,2,2.0,0.0,Navallur,ARB HOMES,2021.0
+46.0,1262,0,3,2.0,0.0,Kelambakkam,ARB HOMES,2021.0
+85.0,1234,1,2,2.0,2.0,Vengaivasal,ARB HOMES,2019.0
+103.0,1469,1,3,3.0,2.0,Vengaivasal,ARB HOMES,2019.0
+66.0,950,0,2,2.0,0.0,Porur,ARB HOMES,2021.0
+29.0,576,1,1,1.0,1.0,Other,ARB HOMES,2020.0
+41.0,855,1,2,2.0,1.0,Other,ARB HOMES,2020.0
+70.0,1080,1,2,2.0,0.0,Perungalathur,ARB HOMES,2021.0
+75.54,1545,1,2,2.0,0.0,Semmancheri,ARB HOMES,2021.0
+77.35,1645,1,3,2.0,0.0,Semmancheri,ARB HOMES,2021.0
+20.0,570,0,1,1.0,0.0,Other,ARB HOMES,2021.0
+53.0,1012,1,2,2.0,1.0,Ambattur,ARB HOMES,2020.0
+40.0,588,0,2,1.0,0.0,Pallavaram,ARB HOMES,2021.0
+85.0,1337,1,3,3.0,2.0,Gowrivakkam,ARB HOMES,2019.0
+56.0,913,1,2,2.0,0.0,Kovur,ARB HOMES,2021.0
+51.0,1225,1,3,2.0,4.0,Other,ARB HOMES,2017.0
+48.0,832,1,2,2.0,1.0,Other,ARB HOMES,2020.0
+64.0,959,0,2,2.0,0.0,Porur,ARB HOMES,2021.0
+70.0,1370,0,3,2.0,0.0,Ayanambakkam,ARB HOMES,2021.0
+40.0,930,0,2,2.0,0.0,Siruseri,ARB HOMES,2021.0
+26.0,571,1,2,2.0,1.0,Kelambakkam,ARB HOMES,2020.0
+35.0,994,0,2,2.0,0.0,Kelambakkam,ARB HOMES,2021.0
+97.0,1598,0,3,2.0,0.0,Sholinganallur,ARB HOMES,2021.0
+80.0,1156,1,2,2.0,0.0,Medavakkam,ARB HOMES,2021.0
+23.0,620,0,1,1.0,0.0,Other,ARB HOMES,2021.0
+16.0,480,1,1,1.0,0.0,Guduvancheri,ARB HOMES,2021.0
+68.0,1024,1,2,2.0,3.0,Karapakkam,ARB HOMES,2018.0
+40.0,588,0,1,1.0,0.0,Vanagaram,ARB HOMES,2021.0
+44.56,918,0,3,2.0,0.0,Padur,Dee Star Properties,2021.0
+43.12,888,0,2,2.0,0.0,Padur,Dee Star Properties,2021.0
+37.77,778,0,2,2.0,0.0,Padur,Dee Star Properties,2021.0
+32.18,663,0,2,2.0,0.0,Padur,Dee Star Properties,2021.0
+85.0,1300,1,2,2.0,6.0,Pallavaram,Other,2015.0
+22.0,600,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+28.0,850,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+36.21,1050,0,2,2.0,0.0,Kelambakkam,Dee Star Properties,2021.0
+34.28,994,0,2,2.0,0.0,Kelambakkam,Dee Star Properties,2021.0
+43.52,1262,0,3,3.0,0.0,Kelambakkam,Dee Star Properties,2021.0
+46.04,1335,0,3,2.0,0.0,Kelambakkam,Dee Star Properties,2021.0
+100.0,1188,1,3,2.0,1.0,Velachery,Other,2020.0
+84.66,996,1,2,2.0,1.0,Velachery,Other,2020.0
+61.64,1045,0,2,2.0,0.0,Medavakkam,Other,2021.0
+75.5,1280,0,3,2.0,0.0,Medavakkam,Other,2021.0
+162.0,1935,0,3,3.0,0.0,Perungudi,Luxclusive Homes,2021.0
+162.0,3654,0,4,2.0,0.0,Perungudi,Luxclusive Homes,2021.0
+162.0,1820,0,3,2.0,0.0,Perungudi,Luxclusive Homes,2021.0
+162.0,3746,0,4,2.0,0.0,Perungudi,Luxclusive Homes,2021.0
+162.0,1793,0,3,2.0,0.0,Perungudi,Luxclusive Homes,2021.0
+162.0,1930,0,3,2.0,0.0,Perungudi,Luxclusive Homes,2021.0
+26.0,700,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+27.0,725,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+60.0,1500,1,3,2.0,0.0,Other,Other,2021.0
+62.0,1433,1,3,2.0,0.0,Other,Other,2021.0
+57.0,1478,1,3,2.0,0.0,Other,Other,2021.0
+29.5,623,1,1,1.0,0.0,Other,Other,2021.0
+86.0,1927,1,3,3.0,4.0,Other,24K Realtors,2017.0
+78.0,1706,1,3,3.0,4.0,Other,24K Realtors,2017.0
+59.0,1437,1,2,2.0,4.0,Other,24K Realtors,2017.0
+87.0,1991,1,3,3.0,4.0,Other,24K Realtors,2017.0
+75.24,1254,0,3,2.0,0.0,Gowrivakkam,MC Foundation,2021.0
+54.3,905,0,2,2.0,0.0,Gowrivakkam,MC Foundation,2021.0
+85.62,1427,0,3,2.0,0.0,Gowrivakkam,MC Foundation,2021.0
+52.86,881,0,2,2.0,0.0,Gowrivakkam,MC Foundation,2021.0
+53.76,896,0,2,2.0,0.0,Gowrivakkam,MC Foundation,2021.0
+23.03,510,0,1,2.0,0.0,Siruseri,Dee Star Properties,2021.0
+35.02,824,0,2,2.0,0.0,Siruseri,Dee Star Properties,2021.0
+15.04,338,0,1,2.0,0.0,Siruseri,Dee Star Properties,2021.0
+38.08,896,0,3,2.0,0.0,Siruseri,Dee Star Properties,2021.0
+32.98,764,0,2,2.0,0.0,Siruseri,Dee Star Properties,2021.0
+84.0,1471,1,3,2.0,4.0,Thaiyur,Dee Star Properties,2017.0
+120.0,1896,1,4,3.0,4.0,Thaiyur,Dee Star Properties,2017.0
+78.56,1376,1,3,2.0,4.0,Thaiyur,Dee Star Properties,2017.0
+93.8,1643,1,3,2.0,4.0,Thaiyur,Dee Star Properties,2017.0
+38.02,1001,0,2,2.0,0.0,Thaiyur,Dee Star Properties,2021.0
+47.33,1246,0,3,2.0,0.0,Thaiyur,Dee Star Properties,2021.0
+40.3,1061,0,2,2.0,0.0,Thaiyur,Dee Star Properties,2021.0
+66.2,1270,1,2,2.0,4.0,Thaiyur,Dee Star Properties,2017.0
+50.45,1328,0,3,2.0,0.0,Thaiyur,Dee Star Properties,2021.0
+37.3,982,0,2,2.0,0.0,Thaiyur,Dee Star Properties,2021.0
+50.71,1335,0,3,2.0,0.0,Thaiyur,Dee Star Properties,2021.0
+78.52,837,1,2,2.0,0.0,East Tambaram,Other,2021.0
+86.0,1010,1,2,2.0,12.0,Velachery,Other,2009.0
+162.0,3000,1,3,4.0,9.0,Velachery,Other,2012.0
+28.02,637,0,2,2.0,0.0,Thirumullaivoyal,Other,2021.0
+29.61,673,0,2,2.0,0.0,Thirumullaivoyal,Other,2021.0
+29.21,664,0,2,2.0,0.0,Thirumullaivoyal,Other,2021.0
+30.62,696,0,2,2.0,0.0,Thirumullaivoyal,Other,2021.0
+29.12,662,0,2,2.0,0.0,Thirumullaivoyal,Other,2021.0
+162.0,1755,0,3,3.0,0.0,Adyar,HomeFirst,2021.0
+63.5,1312,1,2,2.0,0.0,Other,Other,2021.0
+95.0,1564,1,2,3.0,0.0,Karapakkam,24K Realtors,2021.0
+69.0,1419,1,3,3.0,0.0,Other,Other,2021.0
+25.85,650,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+25.9,650,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+26.5,700,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+26.0,650,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+18.0,599,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+55.96,1142,0,3,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+39.78,812,0,2,2.0,0.0,Rajakilpakkam,MC Foundation,2021.0
+42.0,762,0,2,2.0,0.0,Navallur,Other,2021.0
+70.0,1024,1,2,2.0,3.0,Karapakkam,Other,2018.0
+162.0,1574,1,3,2.0,0.0,T Nagar,Other,2021.0
+37.34,770,0,2,2.0,0.0,Other,seller,2021.0
+42.19,870,0,2,2.0,0.0,Ambattur,seller,2021.0
+41.12,848,0,2,2.0,0.0,Other,seller,2021.0
+42.19,870,0,2,2.0,0.0,Other,seller,2021.0
+37.34,770,0,2,2.0,0.0,Other,seller,2021.0
+42.19,870,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+37.34,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+41.12,848,0,2,2.0,0.0,Other,seller,2021.0
+42.19,870,0,2,2.0,0.0,Other,seller,2021.0
+25.0,749,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+25.0,755,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+28.9,920,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+31.25,950,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+25.0,755,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+28.9,920,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+31.25,950,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+22.25,603,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+34.5,1050,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+27.0,812,1,2,2.0,3.0,Veppampattu,Karthick,2018.0
+18.99,611,1,1,2.0,3.0,Veppampattu,Karthick,2018.0
+49.5,900,0,2,2.0,0.0,Other,Other,2021.0
+64.9,1180,0,3,2.0,0.0,Other,Other,2021.0
+56.1,1020,0,3,2.0,0.0,Other,Other,2021.0
+51.15,930,0,2,2.0,0.0,Other,Other,2021.0
+65.7,1096,0,3,2.0,0.0,Other,24K Realtors,2021.0
+88.92,1588,0,3,2.0,0.0,Sholinganallur,24K Realtors,2021.0
+62.0,1020,0,2,2.0,0.0,Other,24K Realtors,2021.0
+45.0,700,0,2,2.0,0.0,Other,Other,2021.0
+45.0,800,0,2,2.0,0.0,Other,Other,2021.0
+50.0,1050,1,2,2.0,0.0,Chromepet,SS PROPERTIES,2021.0
+31.0,650,1,2,2.0,0.0,Pammal,SS PROPERTIES,2021.0
+90.0,1700,0,3,3.0,0.0,Pammal,SS PROPERTIES,2021.0
+23.0,500,1,2,2.0,0.0,Pammal,SS PROPERTIES,2021.0
+31.0,650,1,2,2.0,0.0,Pammal,SS PROPERTIES,2021.0
+85.0,1300,0,3,3.0,0.0,Pammal,SS PROPERTIES,2021.0
+22.0,500,1,1,1.0,0.0,Pammal,SS PROPERTIES,2021.0
+90.0,1900,0,3,3.0,0.0,Pammal,SS PROPERTIES,2021.0
+72.0,1300,1,3,3.0,0.0,Pammal,SS PROPERTIES,2021.0
+90.0,1700,0,3,3.0,0.0,Pammal,SS PROPERTIES,2021.0
+23.0,500,1,2,2.0,0.0,Pammal,SS PROPERTIES,2021.0
+22.0,500,0,1,1.0,0.0,Pammal,SS PROPERTIES,2021.0
+22.0,500,0,2,2.0,0.0,Pammal,SS PROPERTIES,2021.0
+65.0,1400,0,3,3.0,0.0,Pammal,SS PROPERTIES,2021.0
+69.0,1000,1,2,2.0,5.0,Iyyappanthangal,Other,2016.0
+162.0,1750,1,4,3.0,0.0,Other,Other,2021.0
+26.8,700,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+22.8,600,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+26.75,700,1,2,2.0,3.0,Veppampattu,JD Properties,2018.0
+42.19,870,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+40.44,834,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+41.12,848,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+42.19,870,0,2,2.0,0.0,Ambattur,seller,2021.0
+37.34,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+42.19,870,0,2,2.0,0.0,Ambattur,seller,2021.0
+42.19,870,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+40.44,834,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+41.12,848,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+37.35,770,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+108.0,1065,1,2,2.0,0.0,Porur,seller,2021.0
+108.0,1065,1,2,2.0,0.0,Other,seller,2021.0
+108.0,1065,1,2,2.0,0.0,Other,seller,2021.0
+108.0,1065,1,2,2.0,0.0,Porur,seller,2021.0
+65.0,638,1,2,1.0,3.0,Vadapalani,Other,2018.0
+75.0,1791,1,3,3.0,7.0,Kelambakkam,Other,2014.0
+162.0,2130,1,3,3.0,0.0,Anna Nagar,HomeFirst,2021.0
+75.0,1700,1,4,3.0,0.0,Other,Other,2021.0
+162.0,3850,1,5,2.0,2.0,Other,Other,2019.0
+162.0,2230,1,4,2.0,2.0,Other,Other,2019.0
+162.0,2880,1,4,2.0,2.0,Other,Other,2019.0
+162.0,1775,1,3,2.0,2.0,Other,Other,2019.0
+104.0,1329,1,2,2.0,0.0,Sholinganallur,Other,2021.0
+57.88,1220,0,2,2.0,0.0,Other,seller,2021.0
+37.34,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+40.44,834,0,2,2.0,0.0,Ambattur,seller,2021.0
+41.12,848,0,2,2.0,0.0,Ambattur,seller,2021.0
+42.19,870,0,2,2.0,0.0,Ambattur,seller,2021.0
+37.34,770,0,2,2.0,0.0,Ambattur,seller,2021.0
+37.35,770,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+40.44,834,0,2,2.0,0.0,Ambattur INDUSTRIAL ESTATE,seller,2021.0
+40.44,834,0,2,2.0,0.0,Ambattur,seller,2021.0
+40.44,834,0,2,2.0,0.0,Other,seller,2021.0
+42.0,800,0,2,2.0,0.0,Other,Other,2021.0
+162.0,2380,1,3,3.0,0.0,Adyar,HomeFirst,2021.0
+162.0,1850,0,3,3.0,0.0,Alwarpet,HomeFirst,2021.0
+162.0,1283,1,3,3.0,0.0,Anna Nagar,HomeFirst,2021.0
+162.0,1860,0,3,3.0,0.0,Other,HomeFirst,2021.0
+162.0,1641,0,3,3.0,0.0,Other,HomeFirst,2021.0
+46.0,800,1,2,2.0,1.0,Kundrathur,Other,2020.0
+162.0,1930,0,3,3.0,0.0,Perungudi,24K Realtors,2021.0
+95.0,1250,1,3,3.0,0.0,Other,Other,2021.0
+162.0,1610,0,3,2.0,0.0,Other,Luxclusive Homes,2021.0
+100.0,956,0,2,2.0,0.0,Other,Luxclusive Homes,2021.0
+89.23,1373,0,3,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+97.93,1507,0,3,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+96.64,1487,0,3,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+76.81,1182,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+66.61,1025,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+97.09,1494,0,3,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+67.13,1033,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+108.0,1674,0,3,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+70.7,1088,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+83.51,1285,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+73.43,1130,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+90.14,1387,0,3,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+73.24,1127,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+112.0,1737,0,4,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+95.34,1467,0,3,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+73.5,1131,0,2,2.0,0.0,Koyambedu,Luxclusive Homes,2021.0
+76.0,1085,0,3,3.0,0.0,Porur,Other,2021.0
+88.0,1062,0,2,2.0,0.0,Mogappair,Other,2021.0
+73.71,1031,0,2,2.0,0.0,Selaiyur,Other,2021.0
+44.0,898,0,2,2.0,0.0,Iyappanthangal,Other,2021.0
+19.38,510,1,1,2.0,2.0,Veppampattu,Karthick,2019.0
+38.0,1000,1,2,2.0,2.0,Veppampattu,Karthick,2019.0
+22.8,600,1,1,2.0,2.0,Veppampattu,Karthick,2019.0
+20.9,550,1,1,2.0,2.0,Veppampattu,Karthick,2019.0
+30.4,800,1,2,2.0,2.0,Veppampattu,Karthick,2019.0
+24.7,650,1,2,2.0,2.0,Veppampattu,Karthick,2019.0
+45.6,1200,1,2,2.0,2.0,Veppampattu,Karthick,2019.0
+23.94,630,1,1,2.0,2.0,Veppampattu,Karthick,2019.0
+162.0,2030,0,4,3.0,0.0,T Nagar,HomeFirst,2021.0
+162.0,1310,0,3,3.0,0.0,T Nagar,HomeFirst,2021.0
+27.5,800,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+27.5,800,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+29.5,800,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+30.0,800,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+27.5,750,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+27.0,800,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+27.5,750,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+27.5,750,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+30.0,800,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+31.5,850,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
+34.0,900,1,2,2.0,3.0,Veppampattu,Velan Housing Properties,2018.0
